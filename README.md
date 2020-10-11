@@ -39,6 +39,8 @@ To the right of the screen:
 **TTS Provider** / Select the Text To Speech Provider here. (To date, only Amazon Polly works correctly)
 **Voice** / Select the voice here (I myself use Dutch Ruben, and I use Matthew for English)
 
+![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/TTS%20Automate/TTSAutomate.png)
+
 Settings of TTS Automate so that they work well with OpenTX.
 
 Most important here are the **Voice Options**
@@ -47,11 +49,22 @@ Most important here are the **Voice Options**
 **Sample Rate: 32000Hz**
 **Bits per sample: 16**
 
-![alt text](https://github.com/Hobby4life/ISRM-Mode-Changer/blob/main/Color%20LCD.bmp)
+![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/TTS%20Automate/TTSAutomateSettings.png)
 
 
 **AUDACITY**
 ----------------------------
+
+
+![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity 1 - Copy plugin to folder.png)
+
+![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity 2 - Add plugin.png)
+
+![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity 3 - Enable plugin.png)
+
+![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity 4 - Batch chain setup.png)
+
+![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity 5 - Batch chain apply.png)
 
 
 
