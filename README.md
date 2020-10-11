@@ -23,7 +23,9 @@ The spoken language can also be selected.
 
 It looks like this.
 
-**Line number
+
+
+**Line number**
 
 **Folder** / Each line contains the path where audio file is stored.
 
@@ -40,6 +42,8 @@ See inter alia lines 201 and 204 :-)
 
 
 To the right of the screen:
+
+
 
 **Open Phrase file** / here you can select the .PSV file
 
@@ -73,13 +77,32 @@ Most important here are the **Voice Options**
 ----------------------------
 
 
+
+**Step 1 - First copy the TrimSilence.ny plugin to the Audacity/Plug-Ins folder**
+
 ![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity%201%20-%20Copy%20plugin%20to%20folder.png)
+
+
+
+**Step 2 - ADD the TrimSilence plugin in Audacity**
 
 ![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity%202%20-%20Add%20plugin.png)
 
+
+
+**Step 3 - Enable the TrimSilence plugin in Audacity**
+
 ![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity%203%20-%20Enable%20plugin.png)
 
+
+
+**Step 4 - Create/Edit the Chain - Add TrimSilence, ChangeTempo(if you like) and final Export as WAV and all paramaters**
+
 ![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity%204%20-%20Batch%20chain%20setup.png)
+
+
+
+**Step 5 - Apply the chain to the generated files (editted files will showup in the same folder but in folder "cleaned"**
 
 ![alt text](https://github.com/Hobby4life/OpenTX-Soundpacks-EN---NL/blob/main/Audacity/Audacity%205%20-%20Batch%20chain%20apply.png)
 
