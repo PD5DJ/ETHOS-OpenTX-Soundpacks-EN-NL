@@ -10,10 +10,14 @@ Small writeup how to Create OpenTX soundpacks with TTS Automate and Batch edit t
 ----------------------------
 OpenTX is provided with the possibility to use sound packs.
 
+![alt text](http://www.open-tx.org/assets/images/opentx-sound-logo.png)
+
 These are audio (wav) files, and you can play these from OpenTX.
 Like many have heard on the field :-)
 
-To put together a sound pack quickly and easily, there is a program called "TTS Automate"
+To put together a sound pack quickly and easily, there is a program called **TTS Automate**
+
+![alt text](https://www.ttsautomate.com/images/icons/speech-bubble.png)
 
 Website: https://www.ttsautomate.com
 
