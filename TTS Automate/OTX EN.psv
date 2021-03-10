@@ -205,6 +205,8 @@ SOUNDS/en/SYSTEM|volt0|volt
 SOUNDS/en/SYSTEM|volt1|volts
 SOUNDS/en/SYSTEM|watt0|watt
 SOUNDS/en/SYSTEM|watt1|watts
+SOUNDS/en|armed|armed
+SOUNDS/en|disarm|disarmed
 SOUNDS/en|acro|acro mode!, on
 SOUNDS/en|crowon|crow!, on!
 SOUNDS/en|crowof|crow!, off!
@@ -223,6 +225,7 @@ SOUNDS/en|fm-5|flight mode five
 SOUNDS/en|fm-6|flight mode six
 SOUNDS/en|fm-7|flight mode seven
 SOUNDS/en|fm-8|flight mode eight
+SOUNDS/en|fm-ang|flight mode angle
 SOUNDS/en|fm-pwr|flight mode power
 SOUNDS/en|fm-lnd|flight mode land
 SOUNDS/en|fm-flt|flight mode float
@@ -231,22 +234,33 @@ SOUNDS/en|fm-fst|flight mode fast
 SOUNDS/en|fm-nrm|flight mode normal
 SOUNDS/en|fm-crs|flight mode cruise
 SOUNDS/en|fm-acr|flight mode acro
+SOUNDS/en|fm-hor|flight mode horizon
+SOUNDS/en|fm-id1|flight mode idleup 1
+SOUNDS/en|fm-id2|flight mode idleup 2
 SOUNDS/en|fm-rce|flight mode race
 SOUNDS/en|fm-lch|flight mode launch
 SOUNDS/en|fm-png|flight mode ping
 SOUNDS/en|fm-thm|flight mode thermal
 SOUNDS/en|fm-thl|flight mode thermal left
 SOUNDS/en|fm-thr|flight mode thermal right
+SOUNDS/en|fm-stb|flight mode stabelized
+SOUNDS/en|lq|L Q
+SOUNDS/en|rathi|high rate
+SOUNDS/en|ratlow|low rate
+SOUNDS/en|ratmed|medium rate
 SOUNDS/en|gearup|gear!, up!
 SOUNDS/en|geardn|gear!, down!
 SOUNDS/en|lnding|landing mode!, on
 SOUNDS/en|lowbat|low battery!
 SOUNDS/en|nrmmod|normal mode!, on
+SOUNDS/en|rfmode|rf mode
 SOUNDS/en|sigcrt|rf signal!, critical!
 SOUNDS/en|siglow|rf signal!, low!
 SOUNDS/en|spdmod|high speed mode!, active
 SOUNDS/en|splrdn|spoiler!, down!
 SOUNDS/en|splrup|spoiler!, up!
+SOUNDS/en|thract|throttle active
+SOUNDS/en|thrcut|throttle cut
 SOUNDS/en|thmmod|thermal mode!, on
 SOUNDS/en|tohigh|too high!
 SOUNDS/en|tolow|too low!

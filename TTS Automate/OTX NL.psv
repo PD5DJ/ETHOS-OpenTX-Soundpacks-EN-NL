@@ -205,6 +205,8 @@ SOUNDS/nl/SYSTEM|volt0|volt
 SOUNDS/nl/SYSTEM|volt1|volt
 SOUNDS/nl/SYSTEM|watt0|watt
 SOUNDS/nl/SYSTEM|watt1|watt
+SOUNDS/nl|armed|armed
+SOUNDS/nl|disarmed|disarmed
 SOUNDS/nl|acro|aakro modus!, aan
 SOUNDS/nl|crowon|kroow!, aan!
 SOUNDS/nl|crowof|kroow!, uit!
@@ -223,6 +225,7 @@ SOUNDS/nl|fm-5|vlieg modus, 5
 SOUNDS/nl|fm-6|vlieg modus, 6
 SOUNDS/nl|fm-7|vlieg modus, 7
 SOUNDS/nl|fm-8|vlieg modus, 8
+SOUNDS/nl|fm-ang|vlieg modus, hoek
 SOUNDS/nl|fm-pwr|vlieg modus, vermogen
 SOUNDS/nl|fm-lnd|vlieg modus, landen
 SOUNDS/nl|fm-flt|vlieg modus, zweven
@@ -231,22 +234,33 @@ SOUNDS/nl|fm-fst|vlieg modus, snel
 SOUNDS/nl|fm-nrm|vlieg modus, normaal
 SOUNDS/nl|fm-crs|vlieg modus, cruise
 SOUNDS/nl|fm-acr|vlieg modus, aakro
+SOUNDS/nl|fm-hor|vlieg modus, horizon
+SOUNDS/nl|fm-id1|vlieg modus, ilde up 1
+SOUNDS/nl|fm-id2|vlieg modus, ilde up 2
 SOUNDS/nl|fm-rce|vlieg modus, rees
 SOUNDS/nl|fm-lch|vlieg modus, lancering
 SOUNDS/nl|fm-png|vlieg modus, ping
 SOUNDS/nl|fm-thm|vlieg modus, thermiek
 SOUNDS/nl|fm-thl|vlieg modus, thermiek links
 SOUNDS/nl|fm-thr|vlieg modus, thermiek rechts
+SOUNDS/nl|fm-stb|vlieg modus, gestabiliseerd
+SOUNDS/nl|Lq|L Q
+SOUNDS/nl|rathi|ratio, hoog
+SOUNDS/nl|ratlow|ratio, laag
+SOUNDS/nl|ratmed|ratio, gemiddeld
 SOUNDS/nl|gearup|landingsgestel!, omhoog!
 SOUNDS/nl|geardn|landingsgestel!, omlaag!
 SOUNDS/nl|lnding|landings modus!, aan
 SOUNDS/nl|lowbat|batterij niveau laag
 SOUNDS/nl|nrmmod|normale modus!, aan
+SOUNDS/nl|rfmode|RF Mode
 SOUNDS/nl|sigcrt|rf signaal!, kritisch!
 SOUNDS/nl|siglow|rf signaal!, laag!
 SOUNDS/nl|spdmod|hoge snelheids modus!, aktief
 SOUNDS/nl|splrdn|spoyler!, omlaag!
 SOUNDS/nl|splrup|spoyler!, omhoog!
+SOUNDS/nl|thract|Throttle geactiveerd
+SOUNDS/nl|thrcut|Throttle cut
 SOUNDS/nl|thmmod|thermiek modus!, aan
 SOUNDS/nl|tohigh|te hoog!
 SOUNDS/nl|tolow|te laag!
@@ -254,6 +268,7 @@ SOUNDS/nl|trnoff|trainer!, uit!
 SOUNDS/nl|trnon|trainer!, aan!
 SOUNDS/nl|vrioff|vario!, uit
 SOUNDS/nl|vrion|vario!, aan
+
 SOUNDS/nl|acromd|Aakro modus
 SOUNDS/nl|airmod|Air modus
 SOUNDS/nl|angmod|enghel modus
