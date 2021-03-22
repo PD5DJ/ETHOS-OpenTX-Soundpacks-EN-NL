@@ -1,126 +1,126 @@
-SOUNDS/en/SYSTEM|0000|0
-SOUNDS/en/SYSTEM|0001|1
-SOUNDS/en/SYSTEM|0002|2
-SOUNDS/en/SYSTEM|0003|3
-SOUNDS/en/SYSTEM|0004|4
-SOUNDS/en/SYSTEM|0005|5
-SOUNDS/en/SYSTEM|0006|6
-SOUNDS/en/SYSTEM|0007|7
-SOUNDS/en/SYSTEM|0008|8
-SOUNDS/en/SYSTEM|0009|9
-SOUNDS/en/SYSTEM|0010|10
-SOUNDS/en/SYSTEM|0011|11
-SOUNDS/en/SYSTEM|0012|12
-SOUNDS/en/SYSTEM|0013|13
-SOUNDS/en/SYSTEM|0014|14
-SOUNDS/en/SYSTEM|0015|15
-SOUNDS/en/SYSTEM|0016|16
-SOUNDS/en/SYSTEM|0017|17
-SOUNDS/en/SYSTEM|0018|18
-SOUNDS/en/SYSTEM|0019|19
-SOUNDS/en/SYSTEM|0020|20
-SOUNDS/en/SYSTEM|0021|21
-SOUNDS/en/SYSTEM|0022|22
-SOUNDS/en/SYSTEM|0023|23
-SOUNDS/en/SYSTEM|0024|24
-SOUNDS/en/SYSTEM|0025|25
-SOUNDS/en/SYSTEM|0026|26
-SOUNDS/en/SYSTEM|0027|27
-SOUNDS/en/SYSTEM|0028|28
-SOUNDS/en/SYSTEM|0029|29
-SOUNDS/en/SYSTEM|0030|30
-SOUNDS/en/SYSTEM|0031|31
-SOUNDS/en/SYSTEM|0032|32
-SOUNDS/en/SYSTEM|0033|33
-SOUNDS/en/SYSTEM|0034|34
-SOUNDS/en/SYSTEM|0035|35
-SOUNDS/en/SYSTEM|0036|36
-SOUNDS/en/SYSTEM|0037|37
-SOUNDS/en/SYSTEM|0038|38
-SOUNDS/en/SYSTEM|0039|39
-SOUNDS/en/SYSTEM|0040|40
-SOUNDS/en/SYSTEM|0041|41
-SOUNDS/en/SYSTEM|0042|42
-SOUNDS/en/SYSTEM|0043|43
-SOUNDS/en/SYSTEM|0044|44
-SOUNDS/en/SYSTEM|0045|45
-SOUNDS/en/SYSTEM|0046|46
-SOUNDS/en/SYSTEM|0047|47
-SOUNDS/en/SYSTEM|0048|48
-SOUNDS/en/SYSTEM|0049|49
-SOUNDS/en/SYSTEM|0050|50
-SOUNDS/en/SYSTEM|0051|51
-SOUNDS/en/SYSTEM|0052|52
-SOUNDS/en/SYSTEM|0053|53
-SOUNDS/en/SYSTEM|0054|54
-SOUNDS/en/SYSTEM|0055|55
-SOUNDS/en/SYSTEM|0056|56
-SOUNDS/en/SYSTEM|0057|57
-SOUNDS/en/SYSTEM|0058|58
-SOUNDS/en/SYSTEM|0059|59
-SOUNDS/en/SYSTEM|0060|60
-SOUNDS/en/SYSTEM|0061|61
-SOUNDS/en/SYSTEM|0062|62
-SOUNDS/en/SYSTEM|0063|63
-SOUNDS/en/SYSTEM|0064|64
-SOUNDS/en/SYSTEM|0065|65
-SOUNDS/en/SYSTEM|0066|66
-SOUNDS/en/SYSTEM|0067|67
-SOUNDS/en/SYSTEM|0068|68
-SOUNDS/en/SYSTEM|0069|69
-SOUNDS/en/SYSTEM|0070|70
-SOUNDS/en/SYSTEM|0071|71
-SOUNDS/en/SYSTEM|0072|72
-SOUNDS/en/SYSTEM|0073|73
-SOUNDS/en/SYSTEM|0074|74
-SOUNDS/en/SYSTEM|0075|75
-SOUNDS/en/SYSTEM|0076|76
-SOUNDS/en/SYSTEM|0077|77
-SOUNDS/en/SYSTEM|0078|78
-SOUNDS/en/SYSTEM|0079|79
-SOUNDS/en/SYSTEM|0080|80
-SOUNDS/en/SYSTEM|0081|81
-SOUNDS/en/SYSTEM|0082|82
-SOUNDS/en/SYSTEM|0083|83
-SOUNDS/en/SYSTEM|0084|84
-SOUNDS/en/SYSTEM|0085|85
-SOUNDS/en/SYSTEM|0086|86
-SOUNDS/en/SYSTEM|0087|87
-SOUNDS/en/SYSTEM|0088|88
-SOUNDS/en/SYSTEM|0089|89
-SOUNDS/en/SYSTEM|0090|90
-SOUNDS/en/SYSTEM|0091|91
-SOUNDS/en/SYSTEM|0092|92
-SOUNDS/en/SYSTEM|0093|93
-SOUNDS/en/SYSTEM|0094|94
-SOUNDS/en/SYSTEM|0095|95
-SOUNDS/en/SYSTEM|0096|96
-SOUNDS/en/SYSTEM|0097|97
-SOUNDS/en/SYSTEM|0098|98
-SOUNDS/en/SYSTEM|0099|99
-SOUNDS/en/SYSTEM|0100|100
-SOUNDS/en/SYSTEM|0101|200
-SOUNDS/en/SYSTEM|0102|300
-SOUNDS/en/SYSTEM|0103|400
-SOUNDS/en/SYSTEM|0104|500
-SOUNDS/en/SYSTEM|0105|600
-SOUNDS/en/SYSTEM|0106|700
-SOUNDS/en/SYSTEM|0107|800
-SOUNDS/en/SYSTEM|0108|900
-SOUNDS/en/SYSTEM|0109|thousand
-SOUNDS/en/SYSTEM|0110|and
-SOUNDS/en/SYSTEM|0111|minus
-SOUNDS/en/SYSTEM|0112|point
-SOUNDS/en/SYSTEM|0167|point zero
-SOUNDS/en/SYSTEM|0168|point one
-SOUNDS/en/SYSTEM|0169|point two
-SOUNDS/en/SYSTEM|0170|point three
-SOUNDS/en/SYSTEM|0171|point four
-SOUNDS/en/SYSTEM|0172|point five
-SOUNDS/en/SYSTEM|0173|point six
-SOUNDS/en/SYSTEM|0174|point seven
-SOUNDS/en/SYSTEM|0175|point eight
-SOUNDS/en/SYSTEM|0176|point nine
+SOUNDS/en/SYSTEM|0|0
+SOUNDS/en/SYSTEM|1|1
+SOUNDS/en/SYSTEM|2|2
+SOUNDS/en/SYSTEM|3|3
+SOUNDS/en/SYSTEM|4|4
+SOUNDS/en/SYSTEM|5|5
+SOUNDS/en/SYSTEM|6|6
+SOUNDS/en/SYSTEM|7|7
+SOUNDS/en/SYSTEM|8|8
+SOUNDS/en/SYSTEM|9|9
+SOUNDS/en/SYSTEM|10|10
+SOUNDS/en/SYSTEM|11|11
+SOUNDS/en/SYSTEM|12|12
+SOUNDS/en/SYSTEM|13|13
+SOUNDS/en/SYSTEM|14|14
+SOUNDS/en/SYSTEM|15|15
+SOUNDS/en/SYSTEM|16|16
+SOUNDS/en/SYSTEM|17|17
+SOUNDS/en/SYSTEM|18|18
+SOUNDS/en/SYSTEM|19|19
+SOUNDS/en/SYSTEM|20|20
+SOUNDS/en/SYSTEM|21|21
+SOUNDS/en/SYSTEM|22|22
+SOUNDS/en/SYSTEM|23|23
+SOUNDS/en/SYSTEM|24|24
+SOUNDS/en/SYSTEM|25|25
+SOUNDS/en/SYSTEM|26|26
+SOUNDS/en/SYSTEM|27|27
+SOUNDS/en/SYSTEM|28|28
+SOUNDS/en/SYSTEM|29|29
+SOUNDS/en/SYSTEM|30|30
+SOUNDS/en/SYSTEM|31|31
+SOUNDS/en/SYSTEM|32|32
+SOUNDS/en/SYSTEM|33|33
+SOUNDS/en/SYSTEM|34|34
+SOUNDS/en/SYSTEM|35|35
+SOUNDS/en/SYSTEM|36|36
+SOUNDS/en/SYSTEM|37|37
+SOUNDS/en/SYSTEM|38|38
+SOUNDS/en/SYSTEM|39|39
+SOUNDS/en/SYSTEM|40|40
+SOUNDS/en/SYSTEM|41|41
+SOUNDS/en/SYSTEM|42|42
+SOUNDS/en/SYSTEM|43|43
+SOUNDS/en/SYSTEM|44|44
+SOUNDS/en/SYSTEM|45|45
+SOUNDS/en/SYSTEM|46|46
+SOUNDS/en/SYSTEM|47|47
+SOUNDS/en/SYSTEM|48|48
+SOUNDS/en/SYSTEM|49|49
+SOUNDS/en/SYSTEM|50|50
+SOUNDS/en/SYSTEM|51|51
+SOUNDS/en/SYSTEM|52|52
+SOUNDS/en/SYSTEM|53|53
+SOUNDS/en/SYSTEM|54|54
+SOUNDS/en/SYSTEM|55|55
+SOUNDS/en/SYSTEM|56|56
+SOUNDS/en/SYSTEM|57|57
+SOUNDS/en/SYSTEM|58|58
+SOUNDS/en/SYSTEM|59|59
+SOUNDS/en/SYSTEM|60|60
+SOUNDS/en/SYSTEM|61|61
+SOUNDS/en/SYSTEM|62|62
+SOUNDS/en/SYSTEM|63|63
+SOUNDS/en/SYSTEM|64|64
+SOUNDS/en/SYSTEM|65|65
+SOUNDS/en/SYSTEM|66|66
+SOUNDS/en/SYSTEM|67|67
+SOUNDS/en/SYSTEM|68|68
+SOUNDS/en/SYSTEM|69|69
+SOUNDS/en/SYSTEM|70|70
+SOUNDS/en/SYSTEM|71|71
+SOUNDS/en/SYSTEM|72|72
+SOUNDS/en/SYSTEM|73|73
+SOUNDS/en/SYSTEM|74|74
+SOUNDS/en/SYSTEM|75|75
+SOUNDS/en/SYSTEM|76|76
+SOUNDS/en/SYSTEM|77|77
+SOUNDS/en/SYSTEM|78|78
+SOUNDS/en/SYSTEM|79|79
+SOUNDS/en/SYSTEM|80|80
+SOUNDS/en/SYSTEM|81|81
+SOUNDS/en/SYSTEM|82|82
+SOUNDS/en/SYSTEM|83|83
+SOUNDS/en/SYSTEM|84|84
+SOUNDS/en/SYSTEM|85|85
+SOUNDS/en/SYSTEM|86|86
+SOUNDS/en/SYSTEM|87|87
+SOUNDS/en/SYSTEM|88|88
+SOUNDS/en/SYSTEM|89|89
+SOUNDS/en/SYSTEM|90|90
+SOUNDS/en/SYSTEM|91|91
+SOUNDS/en/SYSTEM|92|92
+SOUNDS/en/SYSTEM|93|93
+SOUNDS/en/SYSTEM|94|94
+SOUNDS/en/SYSTEM|95|95
+SOUNDS/en/SYSTEM|96|96
+SOUNDS/en/SYSTEM|97|97
+SOUNDS/en/SYSTEM|98|98
+SOUNDS/en/SYSTEM|99|99
+SOUNDS/en/SYSTEM|100|100
+SOUNDS/en/SYSTEM|101|200
+SOUNDS/en/SYSTEM|102|300
+SOUNDS/en/SYSTEM|103|400
+SOUNDS/en/SYSTEM|104|500
+SOUNDS/en/SYSTEM|105|600
+SOUNDS/en/SYSTEM|106|700
+SOUNDS/en/SYSTEM|107|800
+SOUNDS/en/SYSTEM|108|900
+SOUNDS/en/SYSTEM|109|thousand
+SOUNDS/en/SYSTEM|110|and
+SOUNDS/en/SYSTEM|111|minus
+SOUNDS/en/SYSTEM|112|point
+SOUNDS/en/SYSTEM|167|point zero
+SOUNDS/en/SYSTEM|168|point one
+SOUNDS/en/SYSTEM|169|point two
+SOUNDS/en/SYSTEM|170|point three
+SOUNDS/en/SYSTEM|171|point four
+SOUNDS/en/SYSTEM|172|point five
+SOUNDS/en/SYSTEM|173|point six
+SOUNDS/en/SYSTEM|174|point seven
+SOUNDS/en/SYSTEM|175|point eight
+SOUNDS/en/SYSTEM|176|point nine
 SOUNDS/en/SYSTEM|amp0|amp
 SOUNDS/en/SYSTEM|amp1|amps
 SOUNDS/en/SYSTEM|bye|See you later!
@@ -141,9 +141,9 @@ SOUNDS/en/SYSTEM|fps0|foot per second
 SOUNDS/en/SYSTEM|fps1|feet per second
 SOUNDS/en/SYSTEM|g0|g
 SOUNDS/en/SYSTEM|g1|g
+SOUNDS/en/SYSTEM|hello|Welcome to open tea ex!
 SOUNDS/en/SYSTEM|hertz0|hertz
 SOUNDS/en/SYSTEM|hertz1|hertz
-SOUNDS/en/SYSTEM|hello|Welcome to open tea ex!
 SOUNDS/en/SYSTEM|hour0|hour
 SOUNDS/en/SYSTEM|hour1|hours
 SOUNDS/en/SYSTEM|inactiv|inactivity alarm
@@ -205,18 +205,63 @@ SOUNDS/en/SYSTEM|volt0|volt
 SOUNDS/en/SYSTEM|volt1|volts
 SOUNDS/en/SYSTEM|watt0|watt
 SOUNDS/en/SYSTEM|watt1|watts
-SOUNDS/en|armed|armed
-SOUNDS/en|disarm|disarmed
+SOUNDS/en|3dmode|three d mode
 SOUNDS/en|acro|acro mode!, on
-SOUNDS/en|crowon|crow!, on!
+SOUNDS/en|acromd|Acro mode
+SOUNDS/en|actv|active
+SOUNDS/en|airmod|Air mode
+SOUNDS/en|alt|Altitude
+SOUNDS/en|altabs|Absolute Altitude
+SOUNDS/en|altalm|Altitude alarm activated
+SOUNDS/en|altrea|Target Altitude Reached
+SOUNDS/en|altrel|Relative Altitude
+SOUNDS/en|angmod|Angle mode
+SOUNDS/en|armed|armed
+SOUNDS/en|attmod|attitude mode
+SOUNDS/en|autdtf|Automatic Detach, off!
+SOUNDS/en|autdto|Automatic Detach, on!
+SOUNDS/en|autolv|Autolevel active
+SOUNDS/en|bank0|bank 0
+SOUNDS/en|bank1|bank 1
+SOUNDS/en|bank2|bank 2
+SOUNDS/en|bank3|bank 3
+SOUNDS/en|batchg|battery fully charged
+SOUNDS/en|batemp|battery empty
+SOUNDS/en|batt|Battery
+SOUNDS/en|bear|bearing
+SOUNDS/en|beepof|beeper off
+SOUNDS/en|beepon|beeper on
+SOUNDS/en|celdt|Cells detected
+SOUNDS/en|cell|Cell
+SOUNDS/en|cells|Cells
+SOUNDS/en|celsdt|Cells detected
+SOUNDS/en|coract|course lock activated
 SOUNDS/en|crowof|crow!, off!
-SOUNDS/en|crwopn|crow!, open!
+SOUNDS/en|crowon|crow!, on!
+SOUNDS/en|crsloc|course lock activated
 SOUNDS/en|crwcls|crow!, closed!
-SOUNDS/en|crwfon|crow function active!
 SOUNDS/en|crwfof|crow function disabled! 
+SOUNDS/en|crwfon|crow function active!
+SOUNDS/en|crwopn|crow!, open!
+SOUNDS/en|disarm|disarmed
+SOUNDS/en|dist|distance
+SOUNDS/en|dstika|dualstick active
+SOUNDS/en|dstiko|dualstick off
+SOUNDS/en|dualrf|dualrates off
+SOUNDS/en|dualro|dualrates on
+SOUNDS/en|engine|engine
 SOUNDS/en|engoff|engine!, off!
-SOUNDS/en|flapup|flaps!, up!
+SOUNDS/en|failsa|failsave activated
+SOUNDS/en|fhtrst|Flight reset
 SOUNDS/en|flapdn|flaps!, down!
+SOUNDS/en|flapup|flaps!, up!
+SOUNDS/en|flm1|flight mode 1
+SOUNDS/en|flm2|flight mode 2
+SOUNDS/en|flm3|flight mode 3
+SOUNDS/en|flm4|flight mode 4
+SOUNDS/en|flm5|flight mode 5
+SOUNDS/en|flogof|flight logging, off
+SOUNDS/en|flogon|flight logging, on
 SOUNDS/en|fm-1|flight mode one
 SOUNDS/en|fm-2|flight mode two
 SOUNDS/en|fm-3|flight mode three
@@ -225,157 +270,115 @@ SOUNDS/en|fm-5|flight mode five
 SOUNDS/en|fm-6|flight mode six
 SOUNDS/en|fm-7|flight mode seven
 SOUNDS/en|fm-8|flight mode eight
-SOUNDS/en|fm-ang|flight mode angle
-SOUNDS/en|fm-pwr|flight mode power
-SOUNDS/en|fm-lnd|flight mode land
-SOUNDS/en|fm-flt|flight mode float
-SOUNDS/en|fm-spd|flight mode speed
-SOUNDS/en|fm-fst|flight mode fast
-SOUNDS/en|fm-nrm|flight mode normal
-SOUNDS/en|fm-crs|flight mode cruise
 SOUNDS/en|fm-acr|flight mode acro
+SOUNDS/en|fm-ang|flight mode angle
+SOUNDS/en|fm-crs|flight mode cruise
+SOUNDS/en|fm-flt|flight mode float
+SOUNDS/en|fm-fst|flight mode fast
 SOUNDS/en|fm-hor|flight mode horizon
 SOUNDS/en|fm-id1|flight mode idleup 1
 SOUNDS/en|fm-id2|flight mode idleup 2
-SOUNDS/en|fm-rce|flight mode race
 SOUNDS/en|fm-lch|flight mode launch
+SOUNDS/en|fm-lnd|flight mode land
+SOUNDS/en|fm-nrm|flight mode normal
 SOUNDS/en|fm-png|flight mode ping
-SOUNDS/en|fm-thm|flight mode thermal
-SOUNDS/en|fm-thl|flight mode thermal left
-SOUNDS/en|fm-thr|flight mode thermal right
+SOUNDS/en|fm-pwr|flight mode power
+SOUNDS/en|fm-rce|flight mode race
+SOUNDS/en|fm-spd|flight mode speed
 SOUNDS/en|fm-stb|flight mode stabelized
-SOUNDS/en|lq|L Q
-SOUNDS/en|rathi|high rate
-SOUNDS/en|ratlow|low rate
-SOUNDS/en|ratmed|medium rate
-SOUNDS/en|gearup|gear!, up!
+SOUNDS/en|fm-thl|flight mode thermal left
+SOUNDS/en|fm-thm|flight mode thermal
+SOUNDS/en|fm-thr|flight mode thermal right
+SOUNDS/en|gain|gain
+SOUNDS/en|gdist|Ground distance
 SOUNDS/en|geardn|gear!, down!
-SOUNDS/en|lnding|landing mode!, on
-SOUNDS/en|lowbat|low battery!
-SOUNDS/en|nrmmod|normal mode!, on
-SOUNDS/en|rfmode|rf mode
-SOUNDS/en|sigcrt|rf signal!, critical!
-SOUNDS/en|siglow|rf signal!, low!
-SOUNDS/en|spdmod|high speed mode!, active
-SOUNDS/en|splrdn|spoiler!, down!
-SOUNDS/en|splrup|spoiler!, up!
-SOUNDS/en|thract|throttle active
-SOUNDS/en|thrcut|throttle cut
-SOUNDS/en|thmmod|thermal mode!, on
-SOUNDS/en|tohigh|too high!
-SOUNDS/en|tolow|too low!
-SOUNDS/en|trnoff|trainer!, off!
-SOUNDS/en|trnon|trainer!, on!
-SOUNDS/en|vrioff|vario!, off
-SOUNDS/en|vrion|vario!, on
-SOUNDS/en|acromd|Acro mode
-SOUNDS/en|airmod|Air mode
-SOUNDS/en|angmod|Angle mode
-SOUNDS/en|attmod|attitude mode
-SOUNDS/en|batchg|battery fully charged
-SOUNDS/en|batemp|battery empty
-SOUNDS/en|beepof|beeper off
-SOUNDS/en|beepon|beeper on
-SOUNDS/en|coract|course lock activated
-SOUNDS/en|crsloc|course lock activated
-SOUNDS/en|dualrf|dualrates off
-SOUNDS/en|dualro|dualrates on
-SOUNDS/en|failsa|failsave activated
-SOUNDS/en|flm1|flight mode 1
-SOUNDS/en|flm2|flight mode 2
-SOUNDS/en|flm3|flight mode 3
-SOUNDS/en|flm4|flight mode 4
-SOUNDS/en|flm5|flight mode 5
+SOUNDS/en|gearup|gear!, up!
+SOUNDS/en|glidet|Glider Detached
 SOUNDS/en|gpsmod|g p s mode
+SOUNDS/en|hdg|heading
+SOUNDS/en|hight|hight
 SOUNDS/en|homact|homelock activated
 SOUNDS/en|homlck|homelock activated
 SOUNDS/en|hormod|horizon mode
+SOUNDS/en|hoveon|Hover mode active
 SOUNDS/en|idlup1|idle up 1
 SOUNDS/en|idlup2|idle up 2
 SOUNDS/en|idlup3|idle up 3
 SOUNDS/en|iocdis|i o c disabled
 SOUNDS/en|iocen|i o c enabled
+SOUNDS/en|knifed|Knife edge mode active
+SOUNDS/en|lightf|Lights off
+SOUNDS/en|lighto|Lights on
+SOUNDS/en|lnding|landing mode!, on
+SOUNDS/en|logoff|sd logging off
+SOUNDS/en|logon|sd logging on
+SOUNDS/en|los|Line of sight
+SOUNDS/en|lowbat|low battery!
+SOUNDS/en|lq|L Q
+SOUNDS/en|max|Maximum
+SOUNDS/en|min|Minimal
 SOUNDS/en|motarm|motors armed
 SOUNDS/en|motdrm|motors disarmed
 SOUNDS/en|motoff|motor off
 SOUNDS/en|moton|motor on
+SOUNDS/en|motor|motor
+SOUNDS/en|navlof|Navigation Lights off
+SOUNDS/en|navlon|Navigation Lights on
 SOUNDS/en|normod|normal mode
+SOUNDS/en|nrmmod|normal mode!, on
 SOUNDS/en|osdoff|o s d off
 SOUNDS/en|osdon|o s d on
 SOUNDS/en|osdstp|o s d setup activated
+SOUNDS/en|pct|Percent
+SOUNDS/en|pctlft|Percent left
+SOUNDS/en|rathi|high rate
+SOUNDS/en|ratlow|low rate
+SOUNDS/en|ratmed|medium rate
 SOUNDS/en|ratpr1|rate profile 1
 SOUNDS/en|ratpr2|rate profile 2
 SOUNDS/en|ratpr3|rate profile 3
-SOUNDS/en|thrdis|throttle disabled
-SOUNDS/en|thren|throttle enabled
-SOUNDS/en|timstr|timer, start
-SOUNDS/en|timstp|timer, stop
-SOUNDS/en|tm1end|timer 1 ended
-SOUNDS/en|tm1rst|timer 1 reset
-SOUNDS/en|tm1stp|timer 1 stop
-SOUNDS/en|tm1sta|timer 1 start
-SOUNDS/en|tm2end|timer 2 ended
-SOUNDS/en|tm2rst|timer 2 reset
-SOUNDS/en|tm2stp|timer 2 stop
-SOUNDS/en|tm2sta|timer 2 start
-SOUNDS/en|timrst|timer reset
-SOUNDS/en|towrel|tow cable released
-SOUNDS/en|towlck|tow cable locked
-SOUNDS/en|turtof|turtle mode off
-SOUNDS/en|turton|turtle mode on
-SOUNDS/en|vltcrt|battery voltage critical
-SOUNDS/en|sprtmd|sport mode
-SOUNDS/en|3dmode|three d mode
-SOUNDS/en|flogon|flight logging, on
-SOUNDS/en|flogof|flight logging, off
-SOUNDS/en|dstika|dualstick active
-SOUNDS/en|dstiko|dualstick off
-SOUNDS/en|bank0|bank 0
-SOUNDS/en|bank1|bank 1
-SOUNDS/en|bank2|bank 2
-SOUNDS/en|bank3|bank 3
-SOUNDS/en|stksea|sticksense on
-SOUNDS/en|stkseo|sticksense off
-SOUNDS/en|logon|sd logging on
-SOUNDS/en|logoff|sd logging off
-SOUNDS/en|navlon|Navigation Lights on
-SOUNDS/en|navlof|Navigation Lights off
-SOUNDS/en|lighto|Lights on
-SOUNDS/en|lightf|Lights off
-SOUNDS/en|glidet|Glider Detached
-SOUNDS/en|altrea|Target Altitude Reached
-SOUNDS/en|altalm|Altitude alarm activated
-SOUNDS/en|autolv|Autolevel active
-SOUNDS/en|stabon|Stabilize active
-SOUNDS/en|stabof|Stabilize off
-SOUNDS/en|knifed|Knife edge mode active
-SOUNDS/en|hoveon|Hover mode active
-SOUNDS/en|telrst|Telemetry reset
 SOUNDS/en|recovr|Recovery active
-SOUNDS/en|fhtrst|Flight reset
-SOUNDS/en|autdto|Automatic Detach, on!
-SOUNDS/en|autdtf|Automatic Detach, off!
-SOUNDS/en|pct|Percent
-SOUNDS/en|pctlft|Percent left
-SOUNDS/en|actv|active
-SOUNDS/en|cell|Cell
-SOUNDS/en|celdt|Cells detected
-SOUNDS/en|cells|Cells
-SOUNDS/en|celsdt|Cells detected
-SOUNDS/en|batt|Battery
-SOUNDS/en|gain|gain
-SOUNDS/en|engine|engine
-SOUNDS/en|motor|motor
-SOUNDS/en|dist|distance
-SOUNDS/en|gdist|Ground distance
-SOUNDS/en|los|Line of sight
-SOUNDS/en|alt|Altitude
-SOUNDS/en|altabs|Absolute Altitude
-SOUNDS/en|altrel|Relative Altitude
+SOUNDS/en|rfmode|rf mode
+SOUNDS/en|sigcrt|rf signal!, critical!
+SOUNDS/en|siglow|rf signal!, low!
 SOUNDS/en|spd|speed
 SOUNDS/en|spdair|airspeed
 SOUNDS/en|spdgnd|ground speed
-SOUNDS/en|hdg|heading
-SOUNDS/en|bear|bearing
-SOUNDS/en|strbon|Strobe lights on
+SOUNDS/en|spdmod|high speed mode!, active
+SOUNDS/en|splrdn|spoiler!, down!
+SOUNDS/en|splrup|spoiler!, up!
+SOUNDS/en|sprtmd|sport mode
+SOUNDS/en|stabof|Stabilize off
+SOUNDS/en|stabon|Stabilize active
+SOUNDS/en|stksea|sticksense on
+SOUNDS/en|stkseo|sticksense off
 SOUNDS/en|strbof|Strobe lights off
+SOUNDS/en|strbon|Strobe lights on
+SOUNDS/en|telrst|Telemetry reset
+SOUNDS/en|thmmod|thermal mode!, on
+SOUNDS/en|thract|throttle active
+SOUNDS/en|thrcut|throttle cut
+SOUNDS/en|thrdis|throttle disabled
+SOUNDS/en|thren|throttle enabled
+SOUNDS/en|timrst|timer reset
+SOUNDS/en|timstp|timer, stop
+SOUNDS/en|timstr|timer, start
+SOUNDS/en|tm1end|timer 1 ended
+SOUNDS/en|tm1rst|timer 1 reset
+SOUNDS/en|tm1sta|timer 1 start
+SOUNDS/en|tm1stp|timer 1 stop
+SOUNDS/en|tm2end|timer 2 ended
+SOUNDS/en|tm2rst|timer 2 reset
+SOUNDS/en|tm2sta|timer 2 start
+SOUNDS/en|tm2stp|timer 2 stop
+SOUNDS/en|tohigh|too high!
+SOUNDS/en|tolow|too low!
+SOUNDS/en|towlck|tow cable locked
+SOUNDS/en|towrel|tow cable released
+SOUNDS/en|trnoff|trainer!, off!
+SOUNDS/en|trnon|trainer!, on!
+SOUNDS/en|turtof|turtle mode off
+SOUNDS/en|turton|turtle mode on
+SOUNDS/en|vltcrt|battery voltage critical
+SOUNDS/en|vrioff|vario!, off
+SOUNDS/en|vrion|vario!, on
