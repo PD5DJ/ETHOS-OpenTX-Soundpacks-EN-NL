@@ -1,384 +1,384 @@
-OTX/SOUNDS/en/SYSTEM|0000|0
-OTX/SOUNDS/en/SYSTEM|0001|1
-OTX/SOUNDS/en/SYSTEM|0002|2
-OTX/SOUNDS/en/SYSTEM|0003|3
-OTX/SOUNDS/en/SYSTEM|0004|4
-OTX/SOUNDS/en/SYSTEM|0005|5
-OTX/SOUNDS/en/SYSTEM|0006|6
-OTX/SOUNDS/en/SYSTEM|0007|7
-OTX/SOUNDS/en/SYSTEM|0008|8
-OTX/SOUNDS/en/SYSTEM|0009|9
-OTX/SOUNDS/en/SYSTEM|0010|10
-OTX/SOUNDS/en/SYSTEM|0011|11
-OTX/SOUNDS/en/SYSTEM|0012|12
-OTX/SOUNDS/en/SYSTEM|0013|13
-OTX/SOUNDS/en/SYSTEM|0014|14
-OTX/SOUNDS/en/SYSTEM|0015|15
-OTX/SOUNDS/en/SYSTEM|0016|16
-OTX/SOUNDS/en/SYSTEM|0017|17
-OTX/SOUNDS/en/SYSTEM|0018|18
-OTX/SOUNDS/en/SYSTEM|0019|19
-OTX/SOUNDS/en/SYSTEM|0020|20
-OTX/SOUNDS/en/SYSTEM|0021|21
-OTX/SOUNDS/en/SYSTEM|0022|22
-OTX/SOUNDS/en/SYSTEM|0023|23
-OTX/SOUNDS/en/SYSTEM|0024|24
-OTX/SOUNDS/en/SYSTEM|0025|25
-OTX/SOUNDS/en/SYSTEM|0026|26
-OTX/SOUNDS/en/SYSTEM|0027|27
-OTX/SOUNDS/en/SYSTEM|0028|28
-OTX/SOUNDS/en/SYSTEM|0029|29
-OTX/SOUNDS/en/SYSTEM|0030|30
-OTX/SOUNDS/en/SYSTEM|0031|31
-OTX/SOUNDS/en/SYSTEM|0032|32
-OTX/SOUNDS/en/SYSTEM|0033|33
-OTX/SOUNDS/en/SYSTEM|0034|34
-OTX/SOUNDS/en/SYSTEM|0035|35
-OTX/SOUNDS/en/SYSTEM|0036|36
-OTX/SOUNDS/en/SYSTEM|0037|37
-OTX/SOUNDS/en/SYSTEM|0038|38
-OTX/SOUNDS/en/SYSTEM|0039|39
-OTX/SOUNDS/en/SYSTEM|0040|40
-OTX/SOUNDS/en/SYSTEM|0041|41
-OTX/SOUNDS/en/SYSTEM|0042|42
-OTX/SOUNDS/en/SYSTEM|0043|43
-OTX/SOUNDS/en/SYSTEM|0044|44
-OTX/SOUNDS/en/SYSTEM|0045|45
-OTX/SOUNDS/en/SYSTEM|0046|46
-OTX/SOUNDS/en/SYSTEM|0047|47
-OTX/SOUNDS/en/SYSTEM|0048|48
-OTX/SOUNDS/en/SYSTEM|0049|49
-OTX/SOUNDS/en/SYSTEM|0050|50
-OTX/SOUNDS/en/SYSTEM|0051|51
-OTX/SOUNDS/en/SYSTEM|0052|52
-OTX/SOUNDS/en/SYSTEM|0053|53
-OTX/SOUNDS/en/SYSTEM|0054|54
-OTX/SOUNDS/en/SYSTEM|0055|55
-OTX/SOUNDS/en/SYSTEM|0056|56
-OTX/SOUNDS/en/SYSTEM|0057|57
-OTX/SOUNDS/en/SYSTEM|0058|58
-OTX/SOUNDS/en/SYSTEM|0059|59
-OTX/SOUNDS/en/SYSTEM|0060|60
-OTX/SOUNDS/en/SYSTEM|0061|61
-OTX/SOUNDS/en/SYSTEM|0062|62
-OTX/SOUNDS/en/SYSTEM|0063|63
-OTX/SOUNDS/en/SYSTEM|0064|64
-OTX/SOUNDS/en/SYSTEM|0065|65
-OTX/SOUNDS/en/SYSTEM|0066|66
-OTX/SOUNDS/en/SYSTEM|0067|67
-OTX/SOUNDS/en/SYSTEM|0068|68
-OTX/SOUNDS/en/SYSTEM|0069|69
-OTX/SOUNDS/en/SYSTEM|0070|70
-OTX/SOUNDS/en/SYSTEM|0071|71
-OTX/SOUNDS/en/SYSTEM|0072|72
-OTX/SOUNDS/en/SYSTEM|0073|73
-OTX/SOUNDS/en/SYSTEM|0074|74
-OTX/SOUNDS/en/SYSTEM|0075|75
-OTX/SOUNDS/en/SYSTEM|0076|76
-OTX/SOUNDS/en/SYSTEM|0077|77
-OTX/SOUNDS/en/SYSTEM|0078|78
-OTX/SOUNDS/en/SYSTEM|0079|79
-OTX/SOUNDS/en/SYSTEM|0080|80
-OTX/SOUNDS/en/SYSTEM|0081|81
-OTX/SOUNDS/en/SYSTEM|0082|82
-OTX/SOUNDS/en/SYSTEM|0083|83
-OTX/SOUNDS/en/SYSTEM|0084|84
-OTX/SOUNDS/en/SYSTEM|0085|85
-OTX/SOUNDS/en/SYSTEM|0086|86
-OTX/SOUNDS/en/SYSTEM|0087|87
-OTX/SOUNDS/en/SYSTEM|0088|88
-OTX/SOUNDS/en/SYSTEM|0089|89
-OTX/SOUNDS/en/SYSTEM|0090|90
-OTX/SOUNDS/en/SYSTEM|0091|91
-OTX/SOUNDS/en/SYSTEM|0092|92
-OTX/SOUNDS/en/SYSTEM|0093|93
-OTX/SOUNDS/en/SYSTEM|0094|94
-OTX/SOUNDS/en/SYSTEM|0095|95
-OTX/SOUNDS/en/SYSTEM|0096|96
-OTX/SOUNDS/en/SYSTEM|0097|97
-OTX/SOUNDS/en/SYSTEM|0098|98
-OTX/SOUNDS/en/SYSTEM|0099|99
-OTX/SOUNDS/en/SYSTEM|0100|100
-OTX/SOUNDS/en/SYSTEM|0101|200
-OTX/SOUNDS/en/SYSTEM|0102|300
-OTX/SOUNDS/en/SYSTEM|0103|400
-OTX/SOUNDS/en/SYSTEM|0104|500
-OTX/SOUNDS/en/SYSTEM|0105|600
-OTX/SOUNDS/en/SYSTEM|0106|700
-OTX/SOUNDS/en/SYSTEM|0107|800
-OTX/SOUNDS/en/SYSTEM|0108|900
-OTX/SOUNDS/en/SYSTEM|0109|thousand
-OTX/SOUNDS/en/SYSTEM|0110|and
-OTX/SOUNDS/en/SYSTEM|0111|minus
-OTX/SOUNDS/en/SYSTEM|0112|point
-OTX/SOUNDS/en/SYSTEM|0167|point zero
-OTX/SOUNDS/en/SYSTEM|0168|point one
-OTX/SOUNDS/en/SYSTEM|0169|point two
-OTX/SOUNDS/en/SYSTEM|0170|point three
-OTX/SOUNDS/en/SYSTEM|0171|point four
-OTX/SOUNDS/en/SYSTEM|0172|point five
-OTX/SOUNDS/en/SYSTEM|0173|point six
-OTX/SOUNDS/en/SYSTEM|0174|point seven
-OTX/SOUNDS/en/SYSTEM|0175|point eight
-OTX/SOUNDS/en/SYSTEM|0176|point nine
-OTX/SOUNDS/en/SYSTEM|amp0|amp
-OTX/SOUNDS/en/SYSTEM|amp1|amps
-OTX/SOUNDS/en/SYSTEM|bye|See you later!
-OTX/SOUNDS/en/SYSTEM|celsius0|degree celsius
-OTX/SOUNDS/en/SYSTEM|celsius1|degrees celsius
-OTX/SOUNDS/en/SYSTEM|db0|D B
-OTX/SOUNDS/en/SYSTEM|db1|D B
-OTX/SOUNDS/en/SYSTEM|degree0|degree
-OTX/SOUNDS/en/SYSTEM|degree1|degrees
-OTX/SOUNDS/en/SYSTEM|eebad|bad eeprom
-OTX/SOUNDS/en/SYSTEM|fahr0|degree fahrenheit
-OTX/SOUNDS/en/SYSTEM|fahr1|degrees fahrenheit
-OTX/SOUNDS/en/SYSTEM|foot0|foot
-OTX/SOUNDS/en/SYSTEM|foot1|feet
-OTX/SOUNDS/en/SYSTEM|founce0|fluid ounce
-OTX/SOUNDS/en/SYSTEM|founce1|fluid ounces
-OTX/SOUNDS/en/SYSTEM|fps0|foot per second
-OTX/SOUNDS/en/SYSTEM|fps1|feet per second
-OTX/SOUNDS/en/SYSTEM|g0|g
-OTX/SOUNDS/en/SYSTEM|g1|g
-OTX/SOUNDS/en/SYSTEM|hello|Welcome to open tea ex!
-OTX/SOUNDS/en/SYSTEM|hertz0|hertz
-OTX/SOUNDS/en/SYSTEM|hertz1|hertz
-OTX/SOUNDS/en/SYSTEM|hour0|hour
-OTX/SOUNDS/en/SYSTEM|hour1|hours
-OTX/SOUNDS/en/SYSTEM|inactiv|inactivity alarm
-OTX/SOUNDS/en/SYSTEM|knot0|knot
-OTX/SOUNDS/en/SYSTEM|knot1|knots
-OTX/SOUNDS/en/SYSTEM|kph0|kilometer per hour
-OTX/SOUNDS/en/SYSTEM|kph1|kilometers per hour
-OTX/SOUNDS/en/SYSTEM|lowbatt|transmitter battery low
-OTX/SOUNDS/en/SYSTEM|mamp0|milliamp
-OTX/SOUNDS/en/SYSTEM|mamp1|milliamps
-OTX/SOUNDS/en/SYSTEM|mamph0|milliamp-hour
-OTX/SOUNDS/en/SYSTEM|mamph1|milliamp-hours
-OTX/SOUNDS/en/SYSTEM|maxtrim|maximum trim reached
-OTX/SOUNDS/en/SYSTEM|meter0|meter
-OTX/SOUNDS/en/SYSTEM|meter1|meters
-OTX/SOUNDS/en/SYSTEM|midtrim|trim center
-OTX/SOUNDS/en/SYSTEM|mintrim|minimum trim reached
-OTX/SOUNDS/en/SYSTEM|minute0|minute
-OTX/SOUNDS/en/SYSTEM|minute1|minutes
-OTX/SOUNDS/en/SYSTEM|ml0|milliliter
-OTX/SOUNDS/en/SYSTEM|ml1|milliliters
-OTX/SOUNDS/en/SYSTEM|mlpm0|milliliter per minute
-OTX/SOUNDS/en/SYSTEM|mlpm1|milliliters per minute
-OTX/SOUNDS/en/SYSTEM|modelpwr|receiver still connected
-OTX/SOUNDS/en/SYSTEM|mph0|mile per hour
-OTX/SOUNDS/en/SYSTEM|mph1|miles per hour
-OTX/SOUNDS/en/SYSTEM|mps0|meter per second
-OTX/SOUNDS/en/SYSTEM|mps1|meters per second
-OTX/SOUNDS/en/SYSTEM|ms0|millisecond
-OTX/SOUNDS/en/SYSTEM|ms1|milliseconds
-OTX/SOUNDS/en/SYSTEM|mwatt0|milli-watt
-OTX/SOUNDS/en/SYSTEM|mwatt1|milli-watts
-OTX/SOUNDS/en/SYSTEM|percent0|percent
-OTX/SOUNDS/en/SYSTEM|percent1|percent
-OTX/SOUNDS/en/SYSTEM|rad0|radian
-OTX/SOUNDS/en/SYSTEM|rad1|radians
-OTX/SOUNDS/en/SYSTEM|rpm0|r p m
-OTX/SOUNDS/en/SYSTEM|rpm1|r p m
-OTX/SOUNDS/en/SYSTEM|rssi_org|RF signal, low
-OTX/SOUNDS/en/SYSTEM|rssi_red|RF signal, critical
-OTX/SOUNDS/en/SYSTEM|rxko|power overload
-OTX/SOUNDS/en/SYSTEM|second0|second
-OTX/SOUNDS/en/SYSTEM|second1|seconds
-OTX/SOUNDS/en/SYSTEM|sensorko|sensor lost
-OTX/SOUNDS/en/SYSTEM|servoko|servo overload
-OTX/SOUNDS/en/SYSTEM|swalert|switch warning
-OTX/SOUNDS/en/SYSTEM|swr_red|radio antenna defective
-OTX/SOUNDS/en/SYSTEM|telemko|telemetry lost
-OTX/SOUNDS/en/SYSTEM|telemok|telemetry recovered
-OTX/SOUNDS/en/SYSTEM|thralert|throttle warning
-OTX/SOUNDS/en/SYSTEM|timovr1|timer 1 elapsed
-OTX/SOUNDS/en/SYSTEM|timovr2|timer 2 elapsed
-OTX/SOUNDS/en/SYSTEM|timovr3|timer 3 elapsed
-OTX/SOUNDS/en/SYSTEM|trainko|trainer signal lost
-OTX/SOUNDS/en/SYSTEM|trainok|trainer signal recovered
-OTX/SOUNDS/en/SYSTEM|us0|micro second
-OTX/SOUNDS/en/SYSTEM|us1|micro seconds
-OTX/SOUNDS/en/SYSTEM|volt0|volt
-OTX/SOUNDS/en/SYSTEM|volt1|volts
-OTX/SOUNDS/en/SYSTEM|watt0|watt
-OTX/SOUNDS/en/SYSTEM|watt1|watts
-OTX/SOUNDS/en|3dmode|three d mode
-OTX/SOUNDS/en|acro|acro mode!, on
-OTX/SOUNDS/en|acromd|Acro mode
-OTX/SOUNDS/en|actv|active
-OTX/SOUNDS/en|airmod|Air mode
-OTX/SOUNDS/en|alt|Altitude
-OTX/SOUNDS/en|altabs|Absolute Altitude
-OTX/SOUNDS/en|altalm|Altitude alarm activated
-OTX/SOUNDS/en|altrea|Target Altitude Reached
-OTX/SOUNDS/en|altrel|Relative Altitude
-OTX/SOUNDS/en|angmod|Angle mode
-OTX/SOUNDS/en|armed|armed
-OTX/SOUNDS/en|attmod|attitude mode
-OTX/SOUNDS/en|autdtf|Automatic Detach, off!
-OTX/SOUNDS/en|autdto|Automatic Detach, on!
-OTX/SOUNDS/en|autolv|Autolevel active
-OTX/SOUNDS/en|bank0|bank 0
-OTX/SOUNDS/en|bank1|bank 1
-OTX/SOUNDS/en|bank2|bank 2
-OTX/SOUNDS/en|bank3|bank 3
-OTX/SOUNDS/en|batchg|battery fully charged
-OTX/SOUNDS/en|batemp|battery empty
-OTX/SOUNDS/en|batt|Battery
-OTX/SOUNDS/en|bear|bearing
-OTX/SOUNDS/en|beepof|beeper off
-OTX/SOUNDS/en|beepon|beeper on
-OTX/SOUNDS/en|celdt|Cells detected
-OTX/SOUNDS/en|cell|Cell
-OTX/SOUNDS/en|cells|Cells
-OTX/SOUNDS/en|celsdt|Cells detected
-OTX/SOUNDS/en|coract|course lock activated
-OTX/SOUNDS/en|crowof|crow!, off!
-OTX/SOUNDS/en|crowon|crow!, on!
-OTX/SOUNDS/en|crsloc|course lock activated
-OTX/SOUNDS/en|crwcls|crow!, closed!
-OTX/SOUNDS/en|crwfof|crow function disabled! 
-OTX/SOUNDS/en|crwfon|crow function active!
-OTX/SOUNDS/en|crwopn|crow!, open!
-OTX/SOUNDS/en|disarm|disarmed
-OTX/SOUNDS/en|dist|distance
-OTX/SOUNDS/en|dstika|dualstick active
-OTX/SOUNDS/en|dstiko|dualstick off
-OTX/SOUNDS/en|dualrf|dualrates off
-OTX/SOUNDS/en|dualro|dualrates on
-OTX/SOUNDS/en|engine|engine
-OTX/SOUNDS/en|engoff|engine!, off!
-OTX/SOUNDS/en|failsa|failsave activated
-OTX/SOUNDS/en|fhtrst|Flight reset
-OTX/SOUNDS/en|flapdn|flaps!, down!
-OTX/SOUNDS/en|flapup|flaps!, up!
-OTX/SOUNDS/en|flm1|flight mode 1
-OTX/SOUNDS/en|flm2|flight mode 2
-OTX/SOUNDS/en|flm3|flight mode 3
-OTX/SOUNDS/en|flm4|flight mode 4
-OTX/SOUNDS/en|flm5|flight mode 5
-OTX/SOUNDS/en|flogof|flight logging, off
-OTX/SOUNDS/en|flogon|flight logging, on
-OTX/SOUNDS/en|fm-1|flight mode one
-OTX/SOUNDS/en|fm-2|flight mode two
-OTX/SOUNDS/en|fm-3|flight mode three
-OTX/SOUNDS/en|fm-4|flight mode four
-OTX/SOUNDS/en|fm-5|flight mode five
-OTX/SOUNDS/en|fm-6|flight mode six
-OTX/SOUNDS/en|fm-7|flight mode seven
-OTX/SOUNDS/en|fm-8|flight mode eight
-OTX/SOUNDS/en|fm-acr|flight mode acro
-OTX/SOUNDS/en|fm-ang|flight mode angle
-OTX/SOUNDS/en|fm-crs|flight mode cruise
-OTX/SOUNDS/en|fm-flt|flight mode float
-OTX/SOUNDS/en|fm-fst|flight mode fast
-OTX/SOUNDS/en|fm-hor|flight mode horizon
-OTX/SOUNDS/en|fm-id1|flight mode idleup 1
-OTX/SOUNDS/en|fm-id2|flight mode idleup 2
-OTX/SOUNDS/en|fm-lch|flight mode launch
-OTX/SOUNDS/en|fm-lnd|flight mode land
-OTX/SOUNDS/en|fm-nrm|flight mode normal
-OTX/SOUNDS/en|fm-png|flight mode ping
-OTX/SOUNDS/en|fm-pwr|flight mode power
-OTX/SOUNDS/en|fm-rce|flight mode race
-OTX/SOUNDS/en|fm-spd|flight mode speed
-OTX/SOUNDS/en|fm-stb|flight mode stabelized
-OTX/SOUNDS/en|fm-thl|flight mode thermal left
-OTX/SOUNDS/en|fm-thm|flight mode thermal
-OTX/SOUNDS/en|fm-thr|flight mode thermal right
-OTX/SOUNDS/en|gain|gain
-OTX/SOUNDS/en|gdist|Ground distance
-OTX/SOUNDS/en|geardn|gear!, down!
-OTX/SOUNDS/en|gearup|gear!, up!
-OTX/SOUNDS/en|glidet|Glider Detached
-OTX/SOUNDS/en|gpsmod|g p s mode
-OTX/SOUNDS/en|hdg|heading
-OTX/SOUNDS/en|hight|hight
-OTX/SOUNDS/en|homact|homelock activated
-OTX/SOUNDS/en|homlck|homelock activated
-OTX/SOUNDS/en|hormod|horizon mode
-OTX/SOUNDS/en|hoveon|Hover mode active
-OTX/SOUNDS/en|idlup1|idle up 1
-OTX/SOUNDS/en|idlup2|idle up 2
-OTX/SOUNDS/en|idlup3|idle up 3
-OTX/SOUNDS/en|iocdis|i o c disabled
-OTX/SOUNDS/en|iocen|i o c enabled
-OTX/SOUNDS/en|knifed|Knife edge mode active
-OTX/SOUNDS/en|lightf|Lights off
-OTX/SOUNDS/en|lighto|Lights on
-OTX/SOUNDS/en|lnding|landing mode!, on
-OTX/SOUNDS/en|logoff|sd logging off
-OTX/SOUNDS/en|logon|sd logging on
-OTX/SOUNDS/en|los|Line of sight
-OTX/SOUNDS/en|lowbat|low battery!
-OTX/SOUNDS/en|lq|L Q
-OTX/SOUNDS/en|max|Maximum
-OTX/SOUNDS/en|min|Minimal
-OTX/SOUNDS/en|motarm|motors armed
-OTX/SOUNDS/en|motdrm|motors disarmed
-OTX/SOUNDS/en|motoff|motor off
-OTX/SOUNDS/en|moton|motor on
-OTX/SOUNDS/en|motor|motor
-OTX/SOUNDS/en|navlof|Navigation Lights off
-OTX/SOUNDS/en|navlon|Navigation Lights on
-OTX/SOUNDS/en|normod|normal mode
-OTX/SOUNDS/en|nrmmod|normal mode!, on
-OTX/SOUNDS/en|osdoff|o s d off
-OTX/SOUNDS/en|osdon|o s d on
-OTX/SOUNDS/en|osdstp|o s d setup activated
-OTX/SOUNDS/en|pct|Percent
-OTX/SOUNDS/en|pctlft|Percent left
-OTX/SOUNDS/en|rathi|high rate
-OTX/SOUNDS/en|ratlow|low rate
-OTX/SOUNDS/en|ratmed|medium rate
-OTX/SOUNDS/en|ratpr1|rate profile 1
-OTX/SOUNDS/en|ratpr2|rate profile 2
-OTX/SOUNDS/en|ratpr3|rate profile 3
-OTX/SOUNDS/en|recovr|Recovery active
-OTX/SOUNDS/en|rfmode|rf mode
-OTX/SOUNDS/en|sigcrt|rf signal!, critical!
-OTX/SOUNDS/en|siglow|rf signal!, low!
-OTX/SOUNDS/en|spd|speed
-OTX/SOUNDS/en|spdair|airspeed
-OTX/SOUNDS/en|spdgnd|ground speed
-OTX/SOUNDS/en|spdmod|high speed mode!, active
-OTX/SOUNDS/en|splrdn|spoiler!, down!
-OTX/SOUNDS/en|splrup|spoiler!, up!
-OTX/SOUNDS/en|sprtmd|sport mode
-OTX/SOUNDS/en|stabof|Stabilize off
-OTX/SOUNDS/en|stabon|Stabilize active
-OTX/SOUNDS/en|stksea|sticksense on
-OTX/SOUNDS/en|stkseo|sticksense off
-OTX/SOUNDS/en|strbof|Strobe lights off
-OTX/SOUNDS/en|strbon|Strobe lights on
-OTX/SOUNDS/en|telrst|Telemetry reset
-OTX/SOUNDS/en|thmmod|thermal mode!, on
-OTX/SOUNDS/en|thract|throttle active
-OTX/SOUNDS/en|thrcut|throttle cut
-OTX/SOUNDS/en|thrdis|throttle disabled
-OTX/SOUNDS/en|thren|throttle enabled
-OTX/SOUNDS/en|timrst|timer reset
-OTX/SOUNDS/en|timstp|timer, stop
-OTX/SOUNDS/en|timstr|timer, start
-OTX/SOUNDS/en|tm1end|timer 1 ended
-OTX/SOUNDS/en|tm1rst|timer 1 reset
-OTX/SOUNDS/en|tm1sta|timer 1 start
-OTX/SOUNDS/en|tm1stp|timer 1 stop
-OTX/SOUNDS/en|tm2end|timer 2 ended
-OTX/SOUNDS/en|tm2rst|timer 2 reset
-OTX/SOUNDS/en|tm2sta|timer 2 start
-OTX/SOUNDS/en|tm2stp|timer 2 stop
-OTX/SOUNDS/en|tohigh|too high!
-OTX/SOUNDS/en|tolow|too low!
-OTX/SOUNDS/en|towlck|tow cable locked
-OTX/SOUNDS/en|towrel|tow cable released
-OTX/SOUNDS/en|trnoff|trainer!, off!
-OTX/SOUNDS/en|trnon|trainer!, on!
-OTX/SOUNDS/en|turtof|turtle mode off
-OTX/SOUNDS/en|turton|turtle mode on
-OTX/SOUNDS/en|vltcrt|battery voltage critical
-OTX/SOUNDS/en|vrioff|vario!, off
-OTX/SOUNDS/en|vrion|vario!, on
+OTX SD-CARD/SOUNDS/en/SYSTEM|0000|0
+OTX SD-CARD/SOUNDS/en/SYSTEM|0001|1
+OTX SD-CARD/SOUNDS/en/SYSTEM|0002|2
+OTX SD-CARD/SOUNDS/en/SYSTEM|0003|3
+OTX SD-CARD/SOUNDS/en/SYSTEM|0004|4
+OTX SD-CARD/SOUNDS/en/SYSTEM|0005|5
+OTX SD-CARD/SOUNDS/en/SYSTEM|0006|6
+OTX SD-CARD/SOUNDS/en/SYSTEM|0007|7
+OTX SD-CARD/SOUNDS/en/SYSTEM|0008|8
+OTX SD-CARD/SOUNDS/en/SYSTEM|0009|9
+OTX SD-CARD/SOUNDS/en/SYSTEM|0010|10
+OTX SD-CARD/SOUNDS/en/SYSTEM|0011|11
+OTX SD-CARD/SOUNDS/en/SYSTEM|0012|12
+OTX SD-CARD/SOUNDS/en/SYSTEM|0013|13
+OTX SD-CARD/SOUNDS/en/SYSTEM|0014|14
+OTX SD-CARD/SOUNDS/en/SYSTEM|0015|15
+OTX SD-CARD/SOUNDS/en/SYSTEM|0016|16
+OTX SD-CARD/SOUNDS/en/SYSTEM|0017|17
+OTX SD-CARD/SOUNDS/en/SYSTEM|0018|18
+OTX SD-CARD/SOUNDS/en/SYSTEM|0019|19
+OTX SD-CARD/SOUNDS/en/SYSTEM|0020|20
+OTX SD-CARD/SOUNDS/en/SYSTEM|0021|21
+OTX SD-CARD/SOUNDS/en/SYSTEM|0022|22
+OTX SD-CARD/SOUNDS/en/SYSTEM|0023|23
+OTX SD-CARD/SOUNDS/en/SYSTEM|0024|24
+OTX SD-CARD/SOUNDS/en/SYSTEM|0025|25
+OTX SD-CARD/SOUNDS/en/SYSTEM|0026|26
+OTX SD-CARD/SOUNDS/en/SYSTEM|0027|27
+OTX SD-CARD/SOUNDS/en/SYSTEM|0028|28
+OTX SD-CARD/SOUNDS/en/SYSTEM|0029|29
+OTX SD-CARD/SOUNDS/en/SYSTEM|0030|30
+OTX SD-CARD/SOUNDS/en/SYSTEM|0031|31
+OTX SD-CARD/SOUNDS/en/SYSTEM|0032|32
+OTX SD-CARD/SOUNDS/en/SYSTEM|0033|33
+OTX SD-CARD/SOUNDS/en/SYSTEM|0034|34
+OTX SD-CARD/SOUNDS/en/SYSTEM|0035|35
+OTX SD-CARD/SOUNDS/en/SYSTEM|0036|36
+OTX SD-CARD/SOUNDS/en/SYSTEM|0037|37
+OTX SD-CARD/SOUNDS/en/SYSTEM|0038|38
+OTX SD-CARD/SOUNDS/en/SYSTEM|0039|39
+OTX SD-CARD/SOUNDS/en/SYSTEM|0040|40
+OTX SD-CARD/SOUNDS/en/SYSTEM|0041|41
+OTX SD-CARD/SOUNDS/en/SYSTEM|0042|42
+OTX SD-CARD/SOUNDS/en/SYSTEM|0043|43
+OTX SD-CARD/SOUNDS/en/SYSTEM|0044|44
+OTX SD-CARD/SOUNDS/en/SYSTEM|0045|45
+OTX SD-CARD/SOUNDS/en/SYSTEM|0046|46
+OTX SD-CARD/SOUNDS/en/SYSTEM|0047|47
+OTX SD-CARD/SOUNDS/en/SYSTEM|0048|48
+OTX SD-CARD/SOUNDS/en/SYSTEM|0049|49
+OTX SD-CARD/SOUNDS/en/SYSTEM|0050|50
+OTX SD-CARD/SOUNDS/en/SYSTEM|0051|51
+OTX SD-CARD/SOUNDS/en/SYSTEM|0052|52
+OTX SD-CARD/SOUNDS/en/SYSTEM|0053|53
+OTX SD-CARD/SOUNDS/en/SYSTEM|0054|54
+OTX SD-CARD/SOUNDS/en/SYSTEM|0055|55
+OTX SD-CARD/SOUNDS/en/SYSTEM|0056|56
+OTX SD-CARD/SOUNDS/en/SYSTEM|0057|57
+OTX SD-CARD/SOUNDS/en/SYSTEM|0058|58
+OTX SD-CARD/SOUNDS/en/SYSTEM|0059|59
+OTX SD-CARD/SOUNDS/en/SYSTEM|0060|60
+OTX SD-CARD/SOUNDS/en/SYSTEM|0061|61
+OTX SD-CARD/SOUNDS/en/SYSTEM|0062|62
+OTX SD-CARD/SOUNDS/en/SYSTEM|0063|63
+OTX SD-CARD/SOUNDS/en/SYSTEM|0064|64
+OTX SD-CARD/SOUNDS/en/SYSTEM|0065|65
+OTX SD-CARD/SOUNDS/en/SYSTEM|0066|66
+OTX SD-CARD/SOUNDS/en/SYSTEM|0067|67
+OTX SD-CARD/SOUNDS/en/SYSTEM|0068|68
+OTX SD-CARD/SOUNDS/en/SYSTEM|0069|69
+OTX SD-CARD/SOUNDS/en/SYSTEM|0070|70
+OTX SD-CARD/SOUNDS/en/SYSTEM|0071|71
+OTX SD-CARD/SOUNDS/en/SYSTEM|0072|72
+OTX SD-CARD/SOUNDS/en/SYSTEM|0073|73
+OTX SD-CARD/SOUNDS/en/SYSTEM|0074|74
+OTX SD-CARD/SOUNDS/en/SYSTEM|0075|75
+OTX SD-CARD/SOUNDS/en/SYSTEM|0076|76
+OTX SD-CARD/SOUNDS/en/SYSTEM|0077|77
+OTX SD-CARD/SOUNDS/en/SYSTEM|0078|78
+OTX SD-CARD/SOUNDS/en/SYSTEM|0079|79
+OTX SD-CARD/SOUNDS/en/SYSTEM|0080|80
+OTX SD-CARD/SOUNDS/en/SYSTEM|0081|81
+OTX SD-CARD/SOUNDS/en/SYSTEM|0082|82
+OTX SD-CARD/SOUNDS/en/SYSTEM|0083|83
+OTX SD-CARD/SOUNDS/en/SYSTEM|0084|84
+OTX SD-CARD/SOUNDS/en/SYSTEM|0085|85
+OTX SD-CARD/SOUNDS/en/SYSTEM|0086|86
+OTX SD-CARD/SOUNDS/en/SYSTEM|0087|87
+OTX SD-CARD/SOUNDS/en/SYSTEM|0088|88
+OTX SD-CARD/SOUNDS/en/SYSTEM|0089|89
+OTX SD-CARD/SOUNDS/en/SYSTEM|0090|90
+OTX SD-CARD/SOUNDS/en/SYSTEM|0091|91
+OTX SD-CARD/SOUNDS/en/SYSTEM|0092|92
+OTX SD-CARD/SOUNDS/en/SYSTEM|0093|93
+OTX SD-CARD/SOUNDS/en/SYSTEM|0094|94
+OTX SD-CARD/SOUNDS/en/SYSTEM|0095|95
+OTX SD-CARD/SOUNDS/en/SYSTEM|0096|96
+OTX SD-CARD/SOUNDS/en/SYSTEM|0097|97
+OTX SD-CARD/SOUNDS/en/SYSTEM|0098|98
+OTX SD-CARD/SOUNDS/en/SYSTEM|0099|99
+OTX SD-CARD/SOUNDS/en/SYSTEM|0100|100
+OTX SD-CARD/SOUNDS/en/SYSTEM|0101|200
+OTX SD-CARD/SOUNDS/en/SYSTEM|0102|300
+OTX SD-CARD/SOUNDS/en/SYSTEM|0103|400
+OTX SD-CARD/SOUNDS/en/SYSTEM|0104|500
+OTX SD-CARD/SOUNDS/en/SYSTEM|0105|600
+OTX SD-CARD/SOUNDS/en/SYSTEM|0106|700
+OTX SD-CARD/SOUNDS/en/SYSTEM|0107|800
+OTX SD-CARD/SOUNDS/en/SYSTEM|0108|900
+OTX SD-CARD/SOUNDS/en/SYSTEM|0109|thousand
+OTX SD-CARD/SOUNDS/en/SYSTEM|0110|and
+OTX SD-CARD/SOUNDS/en/SYSTEM|0111|minus
+OTX SD-CARD/SOUNDS/en/SYSTEM|0112|point
+OTX SD-CARD/SOUNDS/en/SYSTEM|0167|point zero
+OTX SD-CARD/SOUNDS/en/SYSTEM|0168|point one
+OTX SD-CARD/SOUNDS/en/SYSTEM|0169|point two
+OTX SD-CARD/SOUNDS/en/SYSTEM|0170|point three
+OTX SD-CARD/SOUNDS/en/SYSTEM|0171|point four
+OTX SD-CARD/SOUNDS/en/SYSTEM|0172|point five
+OTX SD-CARD/SOUNDS/en/SYSTEM|0173|point six
+OTX SD-CARD/SOUNDS/en/SYSTEM|0174|point seven
+OTX SD-CARD/SOUNDS/en/SYSTEM|0175|point eight
+OTX SD-CARD/SOUNDS/en/SYSTEM|0176|point nine
+OTX SD-CARD/SOUNDS/en/SYSTEM|amp0|amp
+OTX SD-CARD/SOUNDS/en/SYSTEM|amp1|amps
+OTX SD-CARD/SOUNDS/en/SYSTEM|bye|See you later!
+OTX SD-CARD/SOUNDS/en/SYSTEM|celsius0|degree celsius
+OTX SD-CARD/SOUNDS/en/SYSTEM|celsius1|degrees celsius
+OTX SD-CARD/SOUNDS/en/SYSTEM|db0|D B
+OTX SD-CARD/SOUNDS/en/SYSTEM|db1|D B
+OTX SD-CARD/SOUNDS/en/SYSTEM|degree0|degree
+OTX SD-CARD/SOUNDS/en/SYSTEM|degree1|degrees
+OTX SD-CARD/SOUNDS/en/SYSTEM|eebad|bad eeprom
+OTX SD-CARD/SOUNDS/en/SYSTEM|fahr0|degree fahrenheit
+OTX SD-CARD/SOUNDS/en/SYSTEM|fahr1|degrees fahrenheit
+OTX SD-CARD/SOUNDS/en/SYSTEM|foot0|foot
+OTX SD-CARD/SOUNDS/en/SYSTEM|foot1|feet
+OTX SD-CARD/SOUNDS/en/SYSTEM|founce0|fluid ounce
+OTX SD-CARD/SOUNDS/en/SYSTEM|founce1|fluid ounces
+OTX SD-CARD/SOUNDS/en/SYSTEM|fps0|foot per second
+OTX SD-CARD/SOUNDS/en/SYSTEM|fps1|feet per second
+OTX SD-CARD/SOUNDS/en/SYSTEM|g0|g
+OTX SD-CARD/SOUNDS/en/SYSTEM|g1|g
+OTX SD-CARD/SOUNDS/en/SYSTEM|hello|Welcome to open tea ex!
+OTX SD-CARD/SOUNDS/en/SYSTEM|hertz0|hertz
+OTX SD-CARD/SOUNDS/en/SYSTEM|hertz1|hertz
+OTX SD-CARD/SOUNDS/en/SYSTEM|hour0|hour
+OTX SD-CARD/SOUNDS/en/SYSTEM|hour1|hours
+OTX SD-CARD/SOUNDS/en/SYSTEM|inactiv|inactivity alarm
+OTX SD-CARD/SOUNDS/en/SYSTEM|knot0|knot
+OTX SD-CARD/SOUNDS/en/SYSTEM|knot1|knots
+OTX SD-CARD/SOUNDS/en/SYSTEM|kph0|kilometer per hour
+OTX SD-CARD/SOUNDS/en/SYSTEM|kph1|kilometers per hour
+OTX SD-CARD/SOUNDS/en/SYSTEM|lowbatt|transmitter battery low
+OTX SD-CARD/SOUNDS/en/SYSTEM|mamp0|milliamp
+OTX SD-CARD/SOUNDS/en/SYSTEM|mamp1|milliamps
+OTX SD-CARD/SOUNDS/en/SYSTEM|mamph0|milliamp-hour
+OTX SD-CARD/SOUNDS/en/SYSTEM|mamph1|milliamp-hours
+OTX SD-CARD/SOUNDS/en/SYSTEM|maxtrim|maximum trim reached
+OTX SD-CARD/SOUNDS/en/SYSTEM|meter0|meter
+OTX SD-CARD/SOUNDS/en/SYSTEM|meter1|meters
+OTX SD-CARD/SOUNDS/en/SYSTEM|midtrim|trim center
+OTX SD-CARD/SOUNDS/en/SYSTEM|mintrim|minimum trim reached
+OTX SD-CARD/SOUNDS/en/SYSTEM|minute0|minute
+OTX SD-CARD/SOUNDS/en/SYSTEM|minute1|minutes
+OTX SD-CARD/SOUNDS/en/SYSTEM|ml0|milliliter
+OTX SD-CARD/SOUNDS/en/SYSTEM|ml1|milliliters
+OTX SD-CARD/SOUNDS/en/SYSTEM|mlpm0|milliliter per minute
+OTX SD-CARD/SOUNDS/en/SYSTEM|mlpm1|milliliters per minute
+OTX SD-CARD/SOUNDS/en/SYSTEM|modelpwr|receiver still connected
+OTX SD-CARD/SOUNDS/en/SYSTEM|mph0|mile per hour
+OTX SD-CARD/SOUNDS/en/SYSTEM|mph1|miles per hour
+OTX SD-CARD/SOUNDS/en/SYSTEM|mps0|meter per second
+OTX SD-CARD/SOUNDS/en/SYSTEM|mps1|meters per second
+OTX SD-CARD/SOUNDS/en/SYSTEM|ms0|millisecond
+OTX SD-CARD/SOUNDS/en/SYSTEM|ms1|milliseconds
+OTX SD-CARD/SOUNDS/en/SYSTEM|mwatt0|milli-watt
+OTX SD-CARD/SOUNDS/en/SYSTEM|mwatt1|milli-watts
+OTX SD-CARD/SOUNDS/en/SYSTEM|percent0|percent
+OTX SD-CARD/SOUNDS/en/SYSTEM|percent1|percent
+OTX SD-CARD/SOUNDS/en/SYSTEM|rad0|radian
+OTX SD-CARD/SOUNDS/en/SYSTEM|rad1|radians
+OTX SD-CARD/SOUNDS/en/SYSTEM|rpm0|r p m
+OTX SD-CARD/SOUNDS/en/SYSTEM|rpm1|r p m
+OTX SD-CARD/SOUNDS/en/SYSTEM|rssi_org|RF signal, low
+OTX SD-CARD/SOUNDS/en/SYSTEM|rssi_red|RF signal, critical
+OTX SD-CARD/SOUNDS/en/SYSTEM|rxko|power overload
+OTX SD-CARD/SOUNDS/en/SYSTEM|second0|second
+OTX SD-CARD/SOUNDS/en/SYSTEM|second1|seconds
+OTX SD-CARD/SOUNDS/en/SYSTEM|sensorko|sensor lost
+OTX SD-CARD/SOUNDS/en/SYSTEM|servoko|servo overload
+OTX SD-CARD/SOUNDS/en/SYSTEM|swalert|switch warning
+OTX SD-CARD/SOUNDS/en/SYSTEM|swr_red|radio antenna defective
+OTX SD-CARD/SOUNDS/en/SYSTEM|telemko|telemetry lost
+OTX SD-CARD/SOUNDS/en/SYSTEM|telemok|telemetry recovered
+OTX SD-CARD/SOUNDS/en/SYSTEM|thralert|throttle warning
+OTX SD-CARD/SOUNDS/en/SYSTEM|timovr1|timer 1 elapsed
+OTX SD-CARD/SOUNDS/en/SYSTEM|timovr2|timer 2 elapsed
+OTX SD-CARD/SOUNDS/en/SYSTEM|timovr3|timer 3 elapsed
+OTX SD-CARD/SOUNDS/en/SYSTEM|trainko|trainer signal lost
+OTX SD-CARD/SOUNDS/en/SYSTEM|trainok|trainer signal recovered
+OTX SD-CARD/SOUNDS/en/SYSTEM|us0|micro second
+OTX SD-CARD/SOUNDS/en/SYSTEM|us1|micro seconds
+OTX SD-CARD/SOUNDS/en/SYSTEM|volt0|volt
+OTX SD-CARD/SOUNDS/en/SYSTEM|volt1|volts
+OTX SD-CARD/SOUNDS/en/SYSTEM|watt0|watt
+OTX SD-CARD/SOUNDS/en/SYSTEM|watt1|watts
+OTX SD-CARD/SOUNDS/en|3dmode|three d mode
+OTX SD-CARD/SOUNDS/en|acro|acro mode!, on
+OTX SD-CARD/SOUNDS/en|acromd|Acro mode
+OTX SD-CARD/SOUNDS/en|actv|active
+OTX SD-CARD/SOUNDS/en|airmod|Air mode
+OTX SD-CARD/SOUNDS/en|alt|Altitude
+OTX SD-CARD/SOUNDS/en|altabs|Absolute Altitude
+OTX SD-CARD/SOUNDS/en|altalm|Altitude alarm activated
+OTX SD-CARD/SOUNDS/en|altrea|Target Altitude Reached
+OTX SD-CARD/SOUNDS/en|altrel|Relative Altitude
+OTX SD-CARD/SOUNDS/en|angmod|Angle mode
+OTX SD-CARD/SOUNDS/en|armed|armed
+OTX SD-CARD/SOUNDS/en|attmod|attitude mode
+OTX SD-CARD/SOUNDS/en|autdtf|Automatic Detach, off!
+OTX SD-CARD/SOUNDS/en|autdto|Automatic Detach, on!
+OTX SD-CARD/SOUNDS/en|autolv|Autolevel active
+OTX SD-CARD/SOUNDS/en|bank0|bank 0
+OTX SD-CARD/SOUNDS/en|bank1|bank 1
+OTX SD-CARD/SOUNDS/en|bank2|bank 2
+OTX SD-CARD/SOUNDS/en|bank3|bank 3
+OTX SD-CARD/SOUNDS/en|batchg|battery fully charged
+OTX SD-CARD/SOUNDS/en|batemp|battery empty
+OTX SD-CARD/SOUNDS/en|batt|Battery
+OTX SD-CARD/SOUNDS/en|bear|bearing
+OTX SD-CARD/SOUNDS/en|beepof|beeper off
+OTX SD-CARD/SOUNDS/en|beepon|beeper on
+OTX SD-CARD/SOUNDS/en|celdt|Cells detected
+OTX SD-CARD/SOUNDS/en|cell|Cell
+OTX SD-CARD/SOUNDS/en|cells|Cells
+OTX SD-CARD/SOUNDS/en|celsdt|Cells detected
+OTX SD-CARD/SOUNDS/en|coract|course lock activated
+OTX SD-CARD/SOUNDS/en|crowof|crow!, off!
+OTX SD-CARD/SOUNDS/en|crowon|crow!, on!
+OTX SD-CARD/SOUNDS/en|crsloc|course lock activated
+OTX SD-CARD/SOUNDS/en|crwcls|crow!, closed!
+OTX SD-CARD/SOUNDS/en|crwfof|crow function disabled! 
+OTX SD-CARD/SOUNDS/en|crwfon|crow function active!
+OTX SD-CARD/SOUNDS/en|crwopn|crow!, open!
+OTX SD-CARD/SOUNDS/en|disarm|disarmed
+OTX SD-CARD/SOUNDS/en|dist|distance
+OTX SD-CARD/SOUNDS/en|dstika|dualstick active
+OTX SD-CARD/SOUNDS/en|dstiko|dualstick off
+OTX SD-CARD/SOUNDS/en|dualrf|dualrates off
+OTX SD-CARD/SOUNDS/en|dualro|dualrates on
+OTX SD-CARD/SOUNDS/en|engine|engine
+OTX SD-CARD/SOUNDS/en|engoff|engine!, off!
+OTX SD-CARD/SOUNDS/en|failsa|failsave activated
+OTX SD-CARD/SOUNDS/en|fhtrst|Flight reset
+OTX SD-CARD/SOUNDS/en|flapdn|flaps!, down!
+OTX SD-CARD/SOUNDS/en|flapup|flaps!, up!
+OTX SD-CARD/SOUNDS/en|flm1|flight mode 1
+OTX SD-CARD/SOUNDS/en|flm2|flight mode 2
+OTX SD-CARD/SOUNDS/en|flm3|flight mode 3
+OTX SD-CARD/SOUNDS/en|flm4|flight mode 4
+OTX SD-CARD/SOUNDS/en|flm5|flight mode 5
+OTX SD-CARD/SOUNDS/en|flogof|flight logging, off
+OTX SD-CARD/SOUNDS/en|flogon|flight logging, on
+OTX SD-CARD/SOUNDS/en|fm-1|flight mode one
+OTX SD-CARD/SOUNDS/en|fm-2|flight mode two
+OTX SD-CARD/SOUNDS/en|fm-3|flight mode three
+OTX SD-CARD/SOUNDS/en|fm-4|flight mode four
+OTX SD-CARD/SOUNDS/en|fm-5|flight mode five
+OTX SD-CARD/SOUNDS/en|fm-6|flight mode six
+OTX SD-CARD/SOUNDS/en|fm-7|flight mode seven
+OTX SD-CARD/SOUNDS/en|fm-8|flight mode eight
+OTX SD-CARD/SOUNDS/en|fm-acr|flight mode acro
+OTX SD-CARD/SOUNDS/en|fm-ang|flight mode angle
+OTX SD-CARD/SOUNDS/en|fm-crs|flight mode cruise
+OTX SD-CARD/SOUNDS/en|fm-flt|flight mode float
+OTX SD-CARD/SOUNDS/en|fm-fst|flight mode fast
+OTX SD-CARD/SOUNDS/en|fm-hor|flight mode horizon
+OTX SD-CARD/SOUNDS/en|fm-id1|flight mode idleup 1
+OTX SD-CARD/SOUNDS/en|fm-id2|flight mode idleup 2
+OTX SD-CARD/SOUNDS/en|fm-lch|flight mode launch
+OTX SD-CARD/SOUNDS/en|fm-lnd|flight mode land
+OTX SD-CARD/SOUNDS/en|fm-nrm|flight mode normal
+OTX SD-CARD/SOUNDS/en|fm-png|flight mode ping
+OTX SD-CARD/SOUNDS/en|fm-pwr|flight mode power
+OTX SD-CARD/SOUNDS/en|fm-rce|flight mode race
+OTX SD-CARD/SOUNDS/en|fm-spd|flight mode speed
+OTX SD-CARD/SOUNDS/en|fm-stb|flight mode stabelized
+OTX SD-CARD/SOUNDS/en|fm-thl|flight mode thermal left
+OTX SD-CARD/SOUNDS/en|fm-thm|flight mode thermal
+OTX SD-CARD/SOUNDS/en|fm-thr|flight mode thermal right
+OTX SD-CARD/SOUNDS/en|gain|gain
+OTX SD-CARD/SOUNDS/en|gdist|Ground distance
+OTX SD-CARD/SOUNDS/en|geardn|gear!, down!
+OTX SD-CARD/SOUNDS/en|gearup|gear!, up!
+OTX SD-CARD/SOUNDS/en|glidet|Glider Detached
+OTX SD-CARD/SOUNDS/en|gpsmod|g p s mode
+OTX SD-CARD/SOUNDS/en|hdg|heading
+OTX SD-CARD/SOUNDS/en|hight|hight
+OTX SD-CARD/SOUNDS/en|homact|homelock activated
+OTX SD-CARD/SOUNDS/en|homlck|homelock activated
+OTX SD-CARD/SOUNDS/en|hormod|horizon mode
+OTX SD-CARD/SOUNDS/en|hoveon|Hover mode active
+OTX SD-CARD/SOUNDS/en|idlup1|idle up 1
+OTX SD-CARD/SOUNDS/en|idlup2|idle up 2
+OTX SD-CARD/SOUNDS/en|idlup3|idle up 3
+OTX SD-CARD/SOUNDS/en|iocdis|i o c disabled
+OTX SD-CARD/SOUNDS/en|iocen|i o c enabled
+OTX SD-CARD/SOUNDS/en|knifed|Knife edge mode active
+OTX SD-CARD/SOUNDS/en|lightf|Lights off
+OTX SD-CARD/SOUNDS/en|lighto|Lights on
+OTX SD-CARD/SOUNDS/en|lnding|landing mode!, on
+OTX SD-CARD/SOUNDS/en|logoff|sd logging off
+OTX SD-CARD/SOUNDS/en|logon|sd logging on
+OTX SD-CARD/SOUNDS/en|los|Line of sight
+OTX SD-CARD/SOUNDS/en|lowbat|low battery!
+OTX SD-CARD/SOUNDS/en|lq|L Q
+OTX SD-CARD/SOUNDS/en|max|Maximum
+OTX SD-CARD/SOUNDS/en|min|Minimal
+OTX SD-CARD/SOUNDS/en|motarm|motors armed
+OTX SD-CARD/SOUNDS/en|motdrm|motors disarmed
+OTX SD-CARD/SOUNDS/en|motoff|motor off
+OTX SD-CARD/SOUNDS/en|moton|motor on
+OTX SD-CARD/SOUNDS/en|motor|motor
+OTX SD-CARD/SOUNDS/en|navlof|Navigation Lights off
+OTX SD-CARD/SOUNDS/en|navlon|Navigation Lights on
+OTX SD-CARD/SOUNDS/en|normod|normal mode
+OTX SD-CARD/SOUNDS/en|nrmmod|normal mode!, on
+OTX SD-CARD/SOUNDS/en|osdoff|o s d off
+OTX SD-CARD/SOUNDS/en|osdon|o s d on
+OTX SD-CARD/SOUNDS/en|osdstp|o s d setup activated
+OTX SD-CARD/SOUNDS/en|pct|Percent
+OTX SD-CARD/SOUNDS/en|pctlft|Percent left
+OTX SD-CARD/SOUNDS/en|rathi|high rate
+OTX SD-CARD/SOUNDS/en|ratlow|low rate
+OTX SD-CARD/SOUNDS/en|ratmed|medium rate
+OTX SD-CARD/SOUNDS/en|ratpr1|rate profile 1
+OTX SD-CARD/SOUNDS/en|ratpr2|rate profile 2
+OTX SD-CARD/SOUNDS/en|ratpr3|rate profile 3
+OTX SD-CARD/SOUNDS/en|recovr|Recovery active
+OTX SD-CARD/SOUNDS/en|rfmode|rf mode
+OTX SD-CARD/SOUNDS/en|sigcrt|rf signal!, critical!
+OTX SD-CARD/SOUNDS/en|siglow|rf signal!, low!
+OTX SD-CARD/SOUNDS/en|spd|speed
+OTX SD-CARD/SOUNDS/en|spdair|airspeed
+OTX SD-CARD/SOUNDS/en|spdgnd|ground speed
+OTX SD-CARD/SOUNDS/en|spdmod|high speed mode!, active
+OTX SD-CARD/SOUNDS/en|splrdn|spoiler!, down!
+OTX SD-CARD/SOUNDS/en|splrup|spoiler!, up!
+OTX SD-CARD/SOUNDS/en|sprtmd|sport mode
+OTX SD-CARD/SOUNDS/en|stabof|Stabilize off
+OTX SD-CARD/SOUNDS/en|stabon|Stabilize active
+OTX SD-CARD/SOUNDS/en|stksea|sticksense on
+OTX SD-CARD/SOUNDS/en|stkseo|sticksense off
+OTX SD-CARD/SOUNDS/en|strbof|Strobe lights off
+OTX SD-CARD/SOUNDS/en|strbon|Strobe lights on
+OTX SD-CARD/SOUNDS/en|telrst|Telemetry reset
+OTX SD-CARD/SOUNDS/en|thmmod|thermal mode!, on
+OTX SD-CARD/SOUNDS/en|thract|throttle active
+OTX SD-CARD/SOUNDS/en|thrcut|throttle cut
+OTX SD-CARD/SOUNDS/en|thrdis|throttle disabled
+OTX SD-CARD/SOUNDS/en|thren|throttle enabled
+OTX SD-CARD/SOUNDS/en|timrst|timer reset
+OTX SD-CARD/SOUNDS/en|timstp|timer, stop
+OTX SD-CARD/SOUNDS/en|timstr|timer, start
+OTX SD-CARD/SOUNDS/en|tm1end|timer 1 ended
+OTX SD-CARD/SOUNDS/en|tm1rst|timer 1 reset
+OTX SD-CARD/SOUNDS/en|tm1sta|timer 1 start
+OTX SD-CARD/SOUNDS/en|tm1stp|timer 1 stop
+OTX SD-CARD/SOUNDS/en|tm2end|timer 2 ended
+OTX SD-CARD/SOUNDS/en|tm2rst|timer 2 reset
+OTX SD-CARD/SOUNDS/en|tm2sta|timer 2 start
+OTX SD-CARD/SOUNDS/en|tm2stp|timer 2 stop
+OTX SD-CARD/SOUNDS/en|tohigh|too high!
+OTX SD-CARD/SOUNDS/en|tolow|too low!
+OTX SD-CARD/SOUNDS/en|towlck|tow cable locked
+OTX SD-CARD/SOUNDS/en|towrel|tow cable released
+OTX SD-CARD/SOUNDS/en|trnoff|trainer!, off!
+OTX SD-CARD/SOUNDS/en|trnon|trainer!, on!
+OTX SD-CARD/SOUNDS/en|turtof|turtle mode off
+OTX SD-CARD/SOUNDS/en|turton|turtle mode on
+OTX SD-CARD/SOUNDS/en|vltcrt|battery voltage critical
+OTX SD-CARD/SOUNDS/en|vrioff|vario!, off
+OTX SD-CARD/SOUNDS/en|vrion|vario!, on
