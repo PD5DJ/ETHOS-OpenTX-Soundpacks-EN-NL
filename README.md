@@ -1,9 +1,9 @@
-# OpenTX Soundpacks EN & NL
- OpenTX TTS Automate EN & NL Soundpacks
+# Frsky Soundpacks EN & NL
+ OpenTX & ETHOS TTS Automate EN & NL Soundpacks
 
 ----------------------------------------------------------------
 
-Small writeup how to Create OpenTX soundpacks with TTS Automate and Batch edit the audio files with Audacity.
+Small writeup how to Create OpenTX & ETHOS soundpacks with TTS Automate and Batch edit the audio files with Audacity.
 
 
 **TTS Automate**
