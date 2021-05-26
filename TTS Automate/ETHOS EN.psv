@@ -1,0 +1,417 @@
+ETHOS/audio/en/system|0|0
+ETHOS/audio/en/system|1|1
+ETHOS/audio/en/system|1-minute|1 minute
+ETHOS/audio/en/system|1-minute-left|1 minute left
+ETHOS/audio/en/system|2|2
+ETHOS/audio/en/system|2-minutes|2 minutes
+ETHOS/audio/en/system|2-minutes-left|2 minutes lefts
+ETHOS/audio/en/system|3|3
+ETHOS/audio/en/system|3-minutes|3 minutes
+ETHOS/audio/en/system|3-minutes-left|3 minutes left
+ETHOS/audio/en/system|4|4
+ETHOS/audio/en/system|4-minutes|4 minutes
+ETHOS/audio/en/system|4-minutes-left|4 minute lefts
+ETHOS/audio/en/system|5|5
+ETHOS/audio/en/system|5-minutes|5 minutes
+ETHOS/audio/en/system|5-minutes-left|5 minute lefts
+ETHOS/audio/en/system|6|6
+ETHOS/audio/en/system|7|7
+ETHOS/audio/en/system|8|8
+ETHOS/audio/en/system|9|9
+ETHOS/audio/en/system|10|10
+ETHOS/audio/en/system|11|11
+ETHOS/audio/en/system|12|12
+ETHOS/audio/en/system|13|13
+ETHOS/audio/en/system|14|14
+ETHOS/audio/en/system|15|15
+ETHOS/audio/en/system|16|16
+ETHOS/audio/en/system|17|17
+ETHOS/audio/en/system|18|18
+ETHOS/audio/en/system|19|19
+ETHOS/audio/en/system|20|20
+ETHOS/audio/en/system|21|21
+ETHOS/audio/en/system|22|22
+ETHOS/audio/en/system|23|23
+ETHOS/audio/en/system|24|24
+ETHOS/audio/en/system|25|25
+ETHOS/audio/en/system|26|26
+ETHOS/audio/en/system|27|27
+ETHOS/audio/en/system|28|28
+ETHOS/audio/en/system|29|29
+ETHOS/audio/en/system|30|30
+ETHOS/audio/en/system|30-seconds|30 seconds
+ETHOS/audio/en/system|30-seconds-left|30 seconds left
+ETHOS/audio/en/system|31|31
+ETHOS/audio/en/system|32|32
+ETHOS/audio/en/system|33|33
+ETHOS/audio/en/system|34|34
+ETHOS/audio/en/system|35|35
+ETHOS/audio/en/system|36|36
+ETHOS/audio/en/system|37|37
+ETHOS/audio/en/system|38|38
+ETHOS/audio/en/system|39|39
+ETHOS/audio/en/system|40|40
+ETHOS/audio/en/system|41|41
+ETHOS/audio/en/system|42|42
+ETHOS/audio/en/system|43|43
+ETHOS/audio/en/system|44|44
+ETHOS/audio/en/system|45|45
+ETHOS/audio/en/system|46|46
+ETHOS/audio/en/system|47|47
+ETHOS/audio/en/system|48|48
+ETHOS/audio/en/system|49|49
+ETHOS/audio/en/system|50|50
+ETHOS/audio/en/system|51|51
+ETHOS/audio/en/system|52|52
+ETHOS/audio/en/system|53|53
+ETHOS/audio/en/system|54|54
+ETHOS/audio/en/system|55|55
+ETHOS/audio/en/system|56|56
+ETHOS/audio/en/system|57|57
+ETHOS/audio/en/system|58|58
+ETHOS/audio/en/system|59|59
+ETHOS/audio/en/system|60|60
+ETHOS/audio/en/system|61|61
+ETHOS/audio/en/system|62|62
+ETHOS/audio/en/system|63|63
+ETHOS/audio/en/system|64|64
+ETHOS/audio/en/system|65|65
+ETHOS/audio/en/system|66|66
+ETHOS/audio/en/system|67|67
+ETHOS/audio/en/system|68|68
+ETHOS/audio/en/system|69|69
+ETHOS/audio/en/system|70|70
+ETHOS/audio/en/system|71|71
+ETHOS/audio/en/system|72|72
+ETHOS/audio/en/system|73|73
+ETHOS/audio/en/system|74|74
+ETHOS/audio/en/system|75|75
+ETHOS/audio/en/system|76|76
+ETHOS/audio/en/system|77|77
+ETHOS/audio/en/system|78|78
+ETHOS/audio/en/system|79|79
+ETHOS/audio/en/system|80|80
+ETHOS/audio/en/system|81|81
+ETHOS/audio/en/system|82|82
+ETHOS/audio/en/system|83|83
+ETHOS/audio/en/system|84|84
+ETHOS/audio/en/system|85|85
+ETHOS/audio/en/system|86|86
+ETHOS/audio/en/system|87|87
+ETHOS/audio/en/system|88|88
+ETHOS/audio/en/system|89|89
+ETHOS/audio/en/system|90|90
+ETHOS/audio/en/system|91|91
+ETHOS/audio/en/system|92|92
+ETHOS/audio/en/system|93|93
+ETHOS/audio/en/system|94|94
+ETHOS/audio/en/system|95|95
+ETHOS/audio/en/system|96|96
+ETHOS/audio/en/system|97|97
+ETHOS/audio/en/system|98|98
+ETHOS/audio/en/system|99|99
+ETHOS/audio/en/system|100|100
+ETHOS/audio/en/system|200|200
+ETHOS/audio/en/system|300|300
+ETHOS/audio/en/system|400|400
+ETHOS/audio/en/system|500|500
+ETHOS/audio/en/system|600|600
+ETHOS/audio/en/system|700|700
+ETHOS/audio/en/system|800|800
+ETHOS/audio/en/system|900|900
+ETHOS/audio/en/system|ah|ampere hour
+ETHOS/audio/en/system|ahs|ampere hours
+ETHOS/audio/en/system|amp|amp
+ETHOS/audio/en/system|amps|amps
+ETHOS/audio/en/system|and|and
+ETHOS/audio/en/system|bind|bind
+ETHOS/audio/en/system|celcius|degree celcius
+ETHOS/audio/en/system|celciuss|degrees celcius
+ETHOS/audio/en/system|cm|centimeter
+ETHOS/audio/en/system|cmps|centimeter per second
+ETHOS/audio/en/system|cms|centimeters
+ETHOS/audio/en/system|cmsps|centimeters per second
+ETHOS/audio/en/system|db|db
+ETHOS/audio/en/system|dbs|db
+ETHOS/audio/en/system|down|down
+ETHOS/audio/en/system|fahrenheit|degree fahrenheit
+ETHOS/audio/en/system|fahrenheits|degrees fahrenheit
+ETHOS/audio/en/system|feet|feet
+ETHOS/audio/en/system|feetps|feet per second
+ETHOS/audio/en/system|foot|foot
+ETHOS/audio/en/system|footps|foot per second
+ETHOS/audio/en/system|hello|welcome to ethos
+ETHOS/audio/en/system|hour|hour
+ETHOS/audio/en/system|hours|hours
+ETHOS/audio/en/system|hundred|hundred
+ETHOS/audio/en/system|hundreds|hundreds
+ETHOS/audio/en/system|inactivity|inactivity for long time
+ETHOS/audio/en/system|km|kilometre
+ETHOS/audio/en/system|kms|kilometres
+ETHOS/audio/en/system|kph|kilometre per hour
+ETHOS/audio/en/system|ksph|kilometres per hour
+ETHOS/audio/en/system|low-battery|radio battery is low
+ETHOS/audio/en/system|low-rtc-battery|RTC battery is low
+ETHOS/audio/en/system|mah|milliamp hour
+ETHOS/audio/en/system|mahs|milliamp hours
+ETHOS/audio/en/system|mamp|milliamp
+ETHOS/audio/en/system|mamps|milliamps
+ETHOS/audio/en/system|meter|meter
+ETHOS/audio/en/system|meterps|meter per second
+ETHOS/audio/en/system|meters|meters
+ETHOS/audio/en/system|metersps|meters per second
+ETHOS/audio/en/system|middle|middle
+ETHOS/audio/en/system|mile|mile
+ETHOS/audio/en/system|miles|miles
+ETHOS/audio/en/system|millisecond|millisecond
+ETHOS/audio/en/system|milliseconds|milliseconds
+ETHOS/audio/en/system|minus|minus
+ETHOS/audio/en/system|minute|minute
+ETHOS/audio/en/system|minutes|minutes
+ETHOS/audio/en/system|modelfile-version-error|model file version does not match
+ETHOS/audio/en/system|mph|mile per hour
+ETHOS/audio/en/system|msph|miles per hour
+ETHOS/audio/en/system|mvolt|millivolt
+ETHOS/audio/en/system|mvolts|millivolts
+ETHOS/audio/en/system|mwatt|milliwatt
+ETHOS/audio/en/system|mwatts|milliwatts
+ETHOS/audio/en/system|no-calibration|the sticks are not calibrated
+ETHOS/audio/en/system|no-failsave|failsave not set
+ETHOS/audio/en/system|no-sd|no sd card inserted
+ETHOS/audio/en/system|no-sound|radio is in silent mode
+ETHOS/audio/en/system|percent|percent
+ETHOS/audio/en/system|percents|percent
+ETHOS/audio/en/system|point|point
+ETHOS/audio/en/system|point0|point 0
+ETHOS/audio/en/system|point1|point 1
+ETHOS/audio/en/system|point2|point 2
+ETHOS/audio/en/system|point3|point 3
+ETHOS/audio/en/system|point4|point 4
+ETHOS/audio/en/system|point5|point 5
+ETHOS/audio/en/system|point6|point 6
+ETHOS/audio/en/system|point7|point 7
+ETHOS/audio/en/system|point8|point 8
+ETHOS/audio/en/system|point9|point 9
+ETHOS/audio/en/system|pot-warning|pot warning
+ETHOS/audio/en/system|range-check|range check
+ETHOS/audio/en/system|register|register
+ETHOS/audio/en/system|rssi-critical-warning|RSSI critical warning
+ETHOS/audio/en/system|rssi-ext-critical-warning|External module RSSI critical warning
+ETHOS/audio/en/system|rssi-ext-lost|External module telemetry lost
+ETHOS/audio/en/system|rssi-ext-low-warning|External module RSSI low warning
+ETHOS/audio/en/system|rssi-ext-recovered|External module telemetry recovered
+ETHOS/audio/en/system|rssi-int2g4-critical-warning|Internal module 2 point 4 ghz, RSSI critical warning
+ETHOS/audio/en/system|rssi-int2g4-lost|Internal module 2 point 4 ghz, telemetry lost
+ETHOS/audio/en/system|rssi-int2g4-low-warning|Internal module 2 point 4 ghz, RSSI low warning
+ETHOS/audio/en/system|rssi-int2g4-recovered|Internal module 2 point 4 ghz, telemetry recovered
+ETHOS/audio/en/system|rssi-int900m-critical-warning|Internal module 900 mhz, RSSI critical warning
+ETHOS/audio/en/system|rssi-int900m-lost|Internal module 900 mhz, telemetry lost
+ETHOS/audio/en/system|rssi-int900m-low-warning|Internal module 900 mhz, RSSI low warning
+ETHOS/audio/en/system|rssi-int900m-recovered|Internal module 900 mhz, telemetry recovered
+ETHOS/audio/en/system|rssi-int-critical-warning|Internal module, RSSI critical warning
+ETHOS/audio/en/system|rssi-int-lost|Internal module, telemetry lost
+ETHOS/audio/en/system|rssi-int-low-warning|Internal module, RSSI low warning
+ETHOS/audio/en/system|rssi-int-recovered|Internal module, telemetry recovered
+ETHOS/audio/en/system|rssi-lost|telemetry lost
+ETHOS/audio/en/system|rssi-low-warning|RSSI low warning
+ETHOS/audio/en/system|rssi-recovered|telemetry recovered
+ETHOS/audio/en/system|rx-on-warning|receiver is still on
+ETHOS/audio/en/system|second|second
+ETHOS/audio/en/system|seconds|seconds
+ETHOS/audio/en/system|sensor-lost|sensor lost
+ETHOS/audio/en/system|slave-disconnect|slave disconnect
+ETHOS/audio/en/system|switch-warning|switch warning
+ETHOS/audio/en/system|swr-warning|SWR warning
+ETHOS/audio/en/system|system-file-version-error|system file version does not match
+ETHOS/audio/en/system|thousand|thousand
+ETHOS/audio/en/system|thousands|thousands
+ETHOS/audio/en/system|throttle-warning|throttle not idle
+ETHOS/audio/en/system|trainer-lost|trainer signal lost
+ETHOS/audio/en/system|trainer-recovered|trainer signal recovered
+ETHOS/audio/en/system|trim-center|trim center
+ETHOS/audio/en/system|trim-max|maximum trim reached
+ETHOS/audio/en/system|trim-min|minimum trim reached
+ETHOS/audio/en/system|up|up
+ETHOS/audio/en/system|volt|volt
+ETHOS/audio/en/system|volts|volts
+ETHOS/audio/en/system|watt|watt
+ETHOS/audio/en/system|watts|watts
+
+ETHOS/audio|3dmode|three d mode
+ETHOS/audio|acro|acro mode!, on
+ETHOS/audio|acromd|Acro mode
+ETHOS/audio|actv|active
+ETHOS/audio|airmod|Air mode
+ETHOS/audio|alt|Altitude
+ETHOS/audio|altabs|Absolute Altitude
+ETHOS/audio|altalm|Altitude alarm activated
+ETHOS/audio|altrea|Target Altitude Reached
+ETHOS/audio|altrel|Relative Altitude
+ETHOS/audio|angmod|Angle mode
+ETHOS/audio|armed|armed
+ETHOS/audio|attmod|attitude mode
+ETHOS/audio|autdtf|Automatic Detach, off!
+ETHOS/audio|autdto|Automatic Detach, on!
+ETHOS/audio|autolv|Autolevel active
+ETHOS/audio|bank0|bank 0
+ETHOS/audio|bank1|bank 1
+ETHOS/audio|bank2|bank 2
+ETHOS/audio|bank3|bank 3
+ETHOS/audio|batchg|battery fully charged
+ETHOS/audio|batemp|battery empty
+ETHOS/audio|batt|Battery
+ETHOS/audio|bear|bearing
+ETHOS/audio|beepof|beeper off
+ETHOS/audio|beepon|beeper on
+ETHOS/audio|celdt|Cells detected
+ETHOS/audio|cell|Cell
+ETHOS/audio|cells|Cells
+ETHOS/audio|celsdt|Cells detected
+ETHOS/audio|coract|course lock activated
+ETHOS/audio|crowof|crow!, off!
+ETHOS/audio|crowon|crow!, on!
+ETHOS/audio|crsloc|course lock activated
+ETHOS/audio|crwcls|crow!, closed!
+ETHOS/audio|crwfof|crow function disabled! 
+ETHOS/audio|crwfon|crow function active!
+ETHOS/audio|crwopn|crow!, open!
+ETHOS/audio|disarm|disarmed
+ETHOS/audio|dist|distance
+ETHOS/audio|dstika|dualstick active
+ETHOS/audio|dstiko|dualstick off
+ETHOS/audio|dualrf|dualrates off
+ETHOS/audio|dualro|dualrates on
+ETHOS/audio|engine|engine
+ETHOS/audio|engoff|engine!, off!
+ETHOS/audio|failsa|failsave activated
+ETHOS/audio|fhtrst|Flight reset
+ETHOS/audio|flapdn|flaps!, down!
+ETHOS/audio|flapup|flaps!, up!
+ETHOS/audio|flm1|flight mode 1
+ETHOS/audio|flm2|flight mode 2
+ETHOS/audio|flm3|flight mode 3
+ETHOS/audio|flm4|flight mode 4
+ETHOS/audio|flm5|flight mode 5
+ETHOS/audio|flogof|flight logging, off
+ETHOS/audio|flogon|flight logging, on
+ETHOS/audio|fm-1|flight mode one
+ETHOS/audio|fm-2|flight mode two
+ETHOS/audio|fm-3|flight mode three
+ETHOS/audio|fm-4|flight mode four
+ETHOS/audio|fm-5|flight mode five
+ETHOS/audio|fm-6|flight mode six
+ETHOS/audio|fm-7|flight mode seven
+ETHOS/audio|fm-8|flight mode eight
+ETHOS/audio|fm-acr|flight mode acro
+ETHOS/audio|fm-ang|flight mode angle
+ETHOS/audio|fm-crs|flight mode cruise
+ETHOS/audio|fm-flt|flight mode float
+ETHOS/audio|fm-fst|flight mode fast
+ETHOS/audio|fm-hor|flight mode horizon
+ETHOS/audio|fm-id1|flight mode idleup 1
+ETHOS/audio|fm-id2|flight mode idleup 2
+ETHOS/audio|fm-lch|flight mode launch
+ETHOS/audio|fm-lnd|flight mode land
+ETHOS/audio|fm-nrm|flight mode normal
+ETHOS/audio|fm-png|flight mode ping
+ETHOS/audio|fm-pwr|flight mode power
+ETHOS/audio|fm-rce|flight mode race
+ETHOS/audio|fm-spd|flight mode speed
+ETHOS/audio|fm-stb|flight mode stabelized
+ETHOS/audio|fm-thl|flight mode thermal left
+ETHOS/audio|fm-thm|flight mode thermal
+ETHOS/audio|fm-thr|flight mode thermal right
+ETHOS/audio|gain|gain
+ETHOS/audio|gdist|Ground distance
+ETHOS/audio|geardn|gear!, down!
+ETHOS/audio|gearup|gear!, up!
+ETHOS/audio|glidet|Glider Detached
+ETHOS/audio|gpsmod|g p s mode
+ETHOS/audio|hdg|heading
+ETHOS/audio|hight|hight
+ETHOS/audio|homact|homelock activated
+ETHOS/audio|homlck|homelock activated
+ETHOS/audio|hormod|horizon mode
+ETHOS/audio|hoveon|Hover mode active
+ETHOS/audio|idlup1|idle up 1
+ETHOS/audio|idlup2|idle up 2
+ETHOS/audio|idlup3|idle up 3
+ETHOS/audio|iocdis|i o c disabled
+ETHOS/audio|iocen|i o c enabled
+ETHOS/audio|knifed|Knife edge mode active
+ETHOS/audio|lightf|Lights off
+ETHOS/audio|lighto|Lights on
+ETHOS/audio|lnding|landing mode!, on
+ETHOS/audio|logoff|sd logging off
+ETHOS/audio|logon|sd logging on
+ETHOS/audio|los|Line of sight
+ETHOS/audio|lowbat|low battery!
+ETHOS/audio|lq|L Q
+ETHOS/audio|max|Maximum
+ETHOS/audio|min|Minimal
+ETHOS/audio|motarm|motors armed
+ETHOS/audio|motdrm|motors disarmed
+ETHOS/audio|motoff|motor off
+ETHOS/audio|moton|motor on
+ETHOS/audio|motor|motor
+ETHOS/audio|navlof|Navigation Lights off
+ETHOS/audio|navlon|Navigation Lights on
+ETHOS/audio|normod|normal mode
+ETHOS/audio|nrmmod|normal mode!, on
+ETHOS/audio|osdoff|o s d off
+ETHOS/audio|osdon|o s d on
+ETHOS/audio|osdstp|o s d setup activated
+ETHOS/audio|pct|Percent
+ETHOS/audio|pctlft|Percent left
+ETHOS/audio|rathi|high rate
+ETHOS/audio|ratlow|low rate
+ETHOS/audio|ratmed|medium rate
+ETHOS/audio|ratpr1|rate profile 1
+ETHOS/audio|ratpr2|rate profile 2
+ETHOS/audio|ratpr3|rate profile 3
+ETHOS/audio|recovr|Recovery active
+ETHOS/audio|rfmode|rf mode
+ETHOS/audio|sigcrt|rf signal!, critical!
+ETHOS/audio|siglow|rf signal!, low!
+ETHOS/audio|spd|speed
+ETHOS/audio|spdair|airspeed
+ETHOS/audio|spdgnd|ground speed
+ETHOS/audio|spdmod|high speed mode!, active
+ETHOS/audio|splrdn|spoiler!, down!
+ETHOS/audio|splrup|spoiler!, up!
+ETHOS/audio|sprtmd|sport mode
+ETHOS/audio|stabof|Stabilize off
+ETHOS/audio|stabon|Stabilize active
+ETHOS/audio|stksea|sticksense on
+ETHOS/audio|stkseo|sticksense off
+ETHOS/audio|strbof|Strobe lights off
+ETHOS/audio|strbon|Strobe lights on
+ETHOS/audio|telrst|Telemetry reset
+ETHOS/audio|thmmod|thermal mode!, on
+ETHOS/audio|thract|throttle active
+ETHOS/audio|thrcut|throttle cut
+ETHOS/audio|thrdis|throttle disabled
+ETHOS/audio|thren|throttle enabled
+ETHOS/audio|timrst|timer reset
+ETHOS/audio|timstp|timer, stop
+ETHOS/audio|timstr|timer, start
+ETHOS/audio|tm1end|timer 1 ended
+ETHOS/audio|tm1rst|timer 1 reset
+ETHOS/audio|tm1sta|timer 1 start
+ETHOS/audio|tm1stp|timer 1 stop
+ETHOS/audio|tm2end|timer 2 ended
+ETHOS/audio|tm2rst|timer 2 reset
+ETHOS/audio|tm2sta|timer 2 start
+ETHOS/audio|tm2stp|timer 2 stop
+ETHOS/audio|tohigh|too high!
+ETHOS/audio|tolow|too low!
+ETHOS/audio|towlck|tow cable locked
+ETHOS/audio|towrel|tow cable released
+ETHOS/audio|trnoff|trainer!, off!
+ETHOS/audio|trnon|trainer!, on!
+ETHOS/audio|turtof|turtle mode off
+ETHOS/audio|turton|turtle mode on
+ETHOS/audio|vltcrt|battery voltage critical
+ETHOS/audio|vrioff|vario!, off
+ETHOS/audio|vrion|vario!, on
+
