@@ -4,16 +4,16 @@ ETHOS SD-CARD/audio/en/system|1-minute|1 minute
 ETHOS SD-CARD/audio/en/system|1-minute-left|1 minute left
 ETHOS SD-CARD/audio/en/system|2|2
 ETHOS SD-CARD/audio/en/system|2-minutes|2 minutes
-ETHOS SD-CARD/audio/en/system|2-minutes-left|2 minutes lefts
+ETHOS SD-CARD/audio/en/system|2-minutes-left|2 minutes left
 ETHOS SD-CARD/audio/en/system|3|3
 ETHOS SD-CARD/audio/en/system|3-minutes|3 minutes
 ETHOS SD-CARD/audio/en/system|3-minutes-left|3 minutes left
 ETHOS SD-CARD/audio/en/system|4|4
 ETHOS SD-CARD/audio/en/system|4-minutes|4 minutes
-ETHOS SD-CARD/audio/en/system|4-minutes-left|4 minute lefts
+ETHOS SD-CARD/audio/en/system|4-minutes-left|4 minutes left
 ETHOS SD-CARD/audio/en/system|5|5
 ETHOS SD-CARD/audio/en/system|5-minutes|5 minutes
-ETHOS SD-CARD/audio/en/system|5-minutes-left|5 minute lefts
+ETHOS SD-CARD/audio/en/system|5-minutes-left|5 minutes left
 ETHOS SD-CARD/audio/en/system|6|6
 ETHOS SD-CARD/audio/en/system|7|7
 ETHOS SD-CARD/audio/en/system|8|8
@@ -200,10 +200,10 @@ ETHOS SD-CARD/audio/en/system|rssi-ext-critical-warning|External module RSSI cri
 ETHOS SD-CARD/audio/en/system|rssi-ext-lost|External module telemetry lost
 ETHOS SD-CARD/audio/en/system|rssi-ext-low-warning|External module RSSI low warning
 ETHOS SD-CARD/audio/en/system|rssi-ext-recovered|External module telemetry recovered
-ETHOS SD-CARD/audio/en/system|rssi-int2g4-critical-warning|Internal module 2 point 4 ghz, RSSI critical warning
-ETHOS SD-CARD/audio/en/system|rssi-int2g4-lost|Internal module 2 point 4 ghz, telemetry lost
-ETHOS SD-CARD/audio/en/system|rssi-int2g4-low-warning|Internal module 2 point 4 ghz, RSSI low warning
-ETHOS SD-CARD/audio/en/system|rssi-int2g4-recovered|Internal module 2 point 4 ghz, telemetry recovered
+ETHOS SD-CARD/audio/en/system|rssi-int2g4-critical-warning|Internal module 2 point 4 giga hertz, RSSI critical warning
+ETHOS SD-CARD/audio/en/system|rssi-int2g4-lost|Internal module 2 point 4 giga hertz, telemetry lost
+ETHOS SD-CARD/audio/en/system|rssi-int2g4-low-warning|Internal module 2 point 4 giga hertz, RSSI low warning
+ETHOS SD-CARD/audio/en/system|rssi-int2g4-recovered|Internal module 2 point 4 giga hertz, telemetry recovered
 ETHOS SD-CARD/audio/en/system|rssi-int900m-critical-warning|Internal module 900 mhz, RSSI critical warning
 ETHOS SD-CARD/audio/en/system|rssi-int900m-lost|Internal module 900 mhz, telemetry lost
 ETHOS SD-CARD/audio/en/system|rssi-int900m-low-warning|Internal module 900 mhz, RSSI low warning
@@ -243,7 +243,10 @@ ETHOS SD-CARD/audio|actv|active
 ETHOS SD-CARD/audio|airmod|Air mode
 ETHOS SD-CARD/audio|alt|Altitude
 ETHOS SD-CARD/audio|altabs|Absolute Altitude
-ETHOS SD-CARD/audio|altalm|Altitude alarm activated
+ETHOS SD-CARD/audio|altalm|Altitude target alarm activated
+ETHOS SD-CARD/audio|altald|Altitude target alarm deactivated
+ETHOS SD-CARD/audio|altana|Altitude announcement activated
+ETHOS SD-CARD/audio|altand|Altitude announcement deactivated
 ETHOS SD-CARD/audio|altrea|Target Altitude Reached
 ETHOS SD-CARD/audio|altrel|Relative Altitude
 ETHOS SD-CARD/audio|angmod|Angle mode
@@ -286,6 +289,7 @@ ETHOS SD-CARD/audio|failsa|failsave activated
 ETHOS SD-CARD/audio|fhtrst|Flight reset
 ETHOS SD-CARD/audio|flapdn|flaps!, down!
 ETHOS SD-CARD/audio|flapup|flaps!, up!
+ETHOS SD-CARD/audio|flm0|flight mode 0
 ETHOS SD-CARD/audio|flm1|flight mode 1
 ETHOS SD-CARD/audio|flm2|flight mode 2
 ETHOS SD-CARD/audio|flm3|flight mode 3
