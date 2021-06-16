@@ -1,0 +1,4 @@
+TrimSilence:min-end-silence="0.000000000000" min-start-silence="0.000000000000" threshold="-41.000000000000"
+Normalize:ApplyGain="1" Level="-5.000000000000" RemoveDcOffset="1" StereoIndependent="0"
+ChangeTempo:Percentage="25.000000000000" SBSMS="0"
+ExportWav:
