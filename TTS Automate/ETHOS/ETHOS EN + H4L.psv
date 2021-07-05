@@ -250,6 +250,10 @@ ETHOS SD-CARD/audio|altana|Altitude announcement activated
 ETHOS SD-CARD/audio|altand|Altitude announcement deactivated
 ETHOS SD-CARD/audio|altrea|Target Altitude Reached
 ETHOS SD-CARD/audio|altrel|Relative Altitude
+ETHOS SD-CARD/audio|ampere|ampere
+ETHOS SD-CARD/audio|ampma|milliamp
+ETHOS SD-CARD/audio|ampmh|milliamper-hour
+ETHOS SD-CARD/audio|amps|amps
 ETHOS SD-CARD/audio|angmod|Angle mode
 ETHOS SD-CARD/audio|armed|armed
 ETHOS SD-CARD/audio|attmod|attitude mode
@@ -278,6 +282,7 @@ ETHOS SD-CARD/audio|crwcls|crow!, closed!
 ETHOS SD-CARD/audio|crwfof|crow function disabled! 
 ETHOS SD-CARD/audio|crwfon|crow function active!
 ETHOS SD-CARD/audio|crwopn|crow!, open!
+ETHOS SD-CARD/audio|current|current
 ETHOS SD-CARD/audio|disarm|disarmed
 ETHOS SD-CARD/audio|dist|distance
 ETHOS SD-CARD/audio|dstika|dualstick active
@@ -332,6 +337,7 @@ ETHOS SD-CARD/audio|gearup|gear!, up!
 ETHOS SD-CARD/audio|glidet|Glider Detached
 ETHOS SD-CARD/audio|gpsmod|g p s mode
 ETHOS SD-CARD/audio|hdg|heading
+ETHOS SD-CARD/audio|headsp|headspead
 ETHOS SD-CARD/audio|hight|hight
 ETHOS SD-CARD/audio|homact|homelock activated
 ETHOS SD-CARD/audio|homlck|homelock activated
@@ -375,6 +381,7 @@ ETHOS SD-CARD/audio|ratpr2|rate profile 2
 ETHOS SD-CARD/audio|ratpr3|rate profile 3
 ETHOS SD-CARD/audio|recovr|Recovery active
 ETHOS SD-CARD/audio|rfmode|rf mode
+ETHOS SD-CARD/audio|rpm|rpm
 ETHOS SD-CARD/audio|sigcrt|rf signal!, critical!
 ETHOS SD-CARD/audio|siglow|rf signal!, low!
 ETHOS SD-CARD/audio|spd|speed
@@ -416,5 +423,7 @@ ETHOS SD-CARD/audio|trnon|trainer!, on!
 ETHOS SD-CARD/audio|turtof|turtle mode off
 ETHOS SD-CARD/audio|turton|turtle mode on
 ETHOS SD-CARD/audio|vltcrt|battery voltage critical
+ETHOS SD-CARD/audio|volt|volt
+ETHOS SD-CARD/audio|voltmv|millivolt
 ETHOS SD-CARD/audio|vrioff|vario!, off
 ETHOS SD-CARD/audio|vrion|vario!, on
