@@ -1,0 +1,228 @@
+ETHOS SD-CARD/audio|3dmode|three d mode
+ETHOS SD-CARD/audio|acro|acro mode!, on
+ETHOS SD-CARD/audio|acromd|Acro mode
+ETHOS SD-CARD/audio|actv|active
+ETHOS SD-CARD/audio|airmod|Air mode
+ETHOS SD-CARD/audio|airspd|air speed
+ETHOS SD-CARD/audio|airspdrst|air speed reset
+ETHOS SD-CARD/audio|alt|Altitude
+ETHOS SD-CARD/audio|altabs|Absolute Altitude
+ETHOS SD-CARD/audio|altalm|Altitude target alarm activated
+ETHOS SD-CARD/audio|altald|Altitude target alarm deactivated
+ETHOS SD-CARD/audio|altana|Altitude announcement activated
+ETHOS SD-CARD/audio|altand|Altitude announcement deactivated
+ETHOS SD-CARD/audio|altrea|Target Altitude Reached
+ETHOS SD-CARD/audio|altrel|Relative Altitude
+ETHOS SD-CARD/audio|altrst|Altitude reset
+ETHOS SD-CARD/audio|ampere|ampere
+ETHOS SD-CARD/audio|ampma|milliamp
+ETHOS SD-CARD/audio|ampmh|milliamper-hour
+ETHOS SD-CARD/audio|amps|amps
+ETHOS SD-CARD/audio|angmod|Angle mode
+ETHOS SD-CARD/audio|armed|armed
+ETHOS SD-CARD/audio|attmod|attitude mode
+ETHOS SD-CARD/audio|autdtf|Automatic Detach, off!
+ETHOS SD-CARD/audio|autdto|Automatic Detach, on!
+ETHOS SD-CARD/audio|autolv|Autolevel active
+ETHOS SD-CARD/audio|bank0|bank 0
+ETHOS SD-CARD/audio|bank1|bank 1
+ETHOS SD-CARD/audio|bank2|bank 2
+ETHOS SD-CARD/audio|bank3|bank 3
+ETHOS SD-CARD/audio|batchg|battery fully charged
+ETHOS SD-CARD/audio|batemp|battery empty
+ETHOS SD-CARD/audio|batt|Battery
+ETHOS SD-CARD/audio|bear|bearing
+ETHOS SD-CARD/audio|beepof|beeper off
+ETHOS SD-CARD/audio|beepon|beeper on
+ETHOS SD-CARD/audio|celdt|Cells detected
+ETHOS SD-CARD/audio|cell|Cell
+ETHOS SD-CARD/audio|cells|Cells
+ETHOS SD-CARD/audio|celsdt|Cells detected
+ETHOS SD-CARD/audio|consrst|Consumption reset
+ETHOS SD-CARD/audio|coract|course lock activated
+ETHOS SD-CARD/audio|crowof|crow!, off!
+ETHOS SD-CARD/audio|crowon|crow!, on!
+ETHOS SD-CARD/audio|crsloc|course lock activated
+ETHOS SD-CARD/audio|crwcls|crow!, closed!
+ETHOS SD-CARD/audio|crwfof|crow function disabled! 
+ETHOS SD-CARD/audio|crwfon|crow function active!
+ETHOS SD-CARD/audio|crwopn|crow!, open!
+ETHOS SD-CARD/audio|current|current
+ETHOS SD-CARD/audio|disarm|disarmed
+ETHOS SD-CARD/audio|dist|distance
+ETHOS SD-CARD/audio|dstika|dualstick active
+ETHOS SD-CARD/audio|dstiko|dualstick off
+ETHOS SD-CARD/audio|distrst|distance reset
+ETHOS SD-CARD/audio|dualrf|dualrates off
+ETHOS SD-CARD/audio|dualro|dualrates on
+ETHOS SD-CARD/audio|engine|engine
+ETHOS SD-CARD/audio|engoff|engine!, off!
+ETHOS SD-CARD/audio|esccur|e s c current
+ETHOS SD-CARD/audio|esccurrst|e s c current reset
+ETHOS SD-CARD/audio|esccon|e s c consumption
+ETHOS SD-CARD/audio|escconrst|e s c consumption reset
+ETHOS SD-CARD/audio|esctmp|e s c temperature
+ETHOS SD-CARD/audio|esctmprst|e s c temperature reset
+ETHOS SD-CARD/audio|escvlt|e s c voltage
+ETHOS SD-CARD/audio|escvltrst|e s c voltage reset
+ETHOS SD-CARD/audio|failsa|failsave activated
+ETHOS SD-CARD/audio|fhtrst|Flight reset
+ETHOS SD-CARD/audio|flapdn|flaps!, down!
+ETHOS SD-CARD/audio|flapup|flaps!, up!
+ETHOS SD-CARD/audio|flm0|flight mode 0
+ETHOS SD-CARD/audio|flm1|flight mode 1
+ETHOS SD-CARD/audio|flm2|flight mode 2
+ETHOS SD-CARD/audio|flm3|flight mode 3
+ETHOS SD-CARD/audio|flm4|flight mode 4
+ETHOS SD-CARD/audio|flm5|flight mode 5
+ETHOS SD-CARD/audio|flogof|flight logging, off
+ETHOS SD-CARD/audio|flogon|flight logging, on
+ETHOS SD-CARD/audio|fm-1|flight mode one
+ETHOS SD-CARD/audio|fm-2|flight mode two
+ETHOS SD-CARD/audio|fm-3|flight mode three
+ETHOS SD-CARD/audio|fm-4|flight mode four
+ETHOS SD-CARD/audio|fm-5|flight mode five
+ETHOS SD-CARD/audio|fm-6|flight mode six
+ETHOS SD-CARD/audio|fm-7|flight mode seven
+ETHOS SD-CARD/audio|fm-8|flight mode eight
+ETHOS SD-CARD/audio|fm-acr|flight mode acro
+ETHOS SD-CARD/audio|fm-ang|flight mode angle
+ETHOS SD-CARD/audio|fm-crs|flight mode cruise
+ETHOS SD-CARD/audio|fm-flt|flight mode float
+ETHOS SD-CARD/audio|fm-fst|flight mode fast
+ETHOS SD-CARD/audio|fm-hor|flight mode horizon
+ETHOS SD-CARD/audio|fm-id1|flight mode idleup 1
+ETHOS SD-CARD/audio|fm-id2|flight mode idleup 2
+ETHOS SD-CARD/audio|fm-lch|flight mode launch
+ETHOS SD-CARD/audio|fm-lnd|flight mode land
+ETHOS SD-CARD/audio|fm-nrm|flight mode normal
+ETHOS SD-CARD/audio|fm-png|flight mode ping
+ETHOS SD-CARD/audio|fm-pwr|flight mode power
+ETHOS SD-CARD/audio|fm-rce|flight mode race
+ETHOS SD-CARD/audio|fm-spd|flight mode speed
+ETHOS SD-CARD/audio|fm-stb|flight mode stabelized
+ETHOS SD-CARD/audio|fm-thl|flight mode thermal left
+ETHOS SD-CARD/audio|fm-thm|flight mode thermal
+ETHOS SD-CARD/audio|fm-thr|flight mode thermal right
+ETHOS SD-CARD/audio|gain|gain
+ETHOS SD-CARD/audio|gdist|Ground distance
+ETHOS SD-CARD/audio|geardn|gear!, down!
+ETHOS SD-CARD/audio|gearup|gear!, up!
+ETHOS SD-CARD/audio|glidet|Glider Detached
+ETHOS SD-CARD/audio|gps|gps
+ETHOS SD-CARD/audio|gpsalt|gps altitude
+ETHOS SD-CARD/audio|gpsaltrst|gps altitude reset
+ETHOS SD-CARD/audio|gpscrs|gps course
+ETHOS SD-CARD/audio|gpscrsrst|gps course reset
+ETHOS SD-CARD/audio|gpsdist|gps distance
+ETHOS SD-CARD/audio|gpsdistrst|gps distance reset
+ETHOS SD-CARD/audio|gpsmod|g p s mode
+ETHOS SD-CARD/audio|gpsspd|gps speed
+ETHOS SD-CARD/audio|gpsspdrst|gps speed reset
+ETHOS SD-CARD/audio|hdg|heading
+ETHOS SD-CARD/audio|headsp|headspead
+ETHOS SD-CARD/audio|hight|hight
+ETHOS SD-CARD/audio|homact|homelock activated
+ETHOS SD-CARD/audio|homlck|homelock activated
+ETHOS SD-CARD/audio|hormod|horizon mode
+ETHOS SD-CARD/audio|hoveon|Hover mode active
+ETHOS SD-CARD/audio|idlup1|idle up 1
+ETHOS SD-CARD/audio|idlup2|idle up 2
+ETHOS SD-CARD/audio|idlup3|idle up 3
+ETHOS SD-CARD/audio|iocdis|i o c disabled
+ETHOS SD-CARD/audio|iocen|i o c enabled
+ETHOS SD-CARD/audio|knifed|Knife edge mode active
+ETHOS SD-CARD/audio|lightf|Lights off
+ETHOS SD-CARD/audio|lighto|Lights on
+ETHOS SD-CARD/audio|lnding|landing mode!, on
+ETHOS SD-CARD/audio|logoff|sd logging off
+ETHOS SD-CARD/audio|logon|sd logging on
+ETHOS SD-CARD/audio|los|Line of sight
+ETHOS SD-CARD/audio|lowbat|low battery!
+ETHOS SD-CARD/audio|lq|L Q
+ETHOS SD-CARD/audio|max|Maximum
+ETHOS SD-CARD/audio|min|Minimal
+ETHOS SD-CARD/audio|motarm|motors armed
+ETHOS SD-CARD/audio|motdrm|motors disarmed
+ETHOS SD-CARD/audio|motoff|motor off
+ETHOS SD-CARD/audio|moton|motor on
+ETHOS SD-CARD/audio|motor|motor
+ETHOS SD-CARD/audio|navlof|Navigation Lights off
+ETHOS SD-CARD/audio|navlon|Navigation Lights on
+ETHOS SD-CARD/audio|normod|normal mode
+ETHOS SD-CARD/audio|nrmmod|normal mode!, on
+ETHOS SD-CARD/audio|osdoff|o s d off
+ETHOS SD-CARD/audio|osdon|o s d on
+ETHOS SD-CARD/audio|osdstp|o s d setup activated
+ETHOS SD-CARD/audio|pct|Percent
+ETHOS SD-CARD/audio|pctlft|Percent left
+ETHOS SD-CARD/audio|rathi|high rate
+ETHOS SD-CARD/audio|ratlow|low rate
+ETHOS SD-CARD/audio|ratmed|medium rate
+ETHOS SD-CARD/audio|ratpr1|rate profile 1
+ETHOS SD-CARD/audio|ratpr2|rate profile 2
+ETHOS SD-CARD/audio|ratpr3|rate profile 3
+ETHOS SD-CARD/audio|recovr|Recovery active
+ETHOS SD-CARD/audio|rfmode|rf mode
+ETHOS SD-CARD/audio|rpm|rpm
+ETHOS SD-CARD/audio|rpmrst|rpm rieset
+ETHOS SD-CARD/audio|rssi|r s s i
+ETHOS SD-CARD/audio|rssirst|r s s i reset
+ETHOS SD-CARD/audio|rxbatt|r x battery voltage
+ETHOS SD-CARD/audio|rxbattrst|r x battery voltage rieset
+ETHOS SD-CARD/audio|sbeccon|s bec consumption
+ETHOS SD-CARD/audio|sbecconrst|s bec consumption reset
+ETHOS SD-CARD/audio|sbeccur|s bec current
+ETHOS SD-CARD/audio|sbeccurrst|s bec current reset
+ETHOS SD-CARD/audio|sbecvlt|s bec voltage
+ETHOS SD-CARD/audio|sbecvltrst|s bec voltage rieset
+ETHOS SD-CARD/audio|sigcrt|rf signal!, critical!
+ETHOS SD-CARD/audio|siglow|rf signal!, low!
+ETHOS SD-CARD/audio|spd|speed
+ETHOS SD-CARD/audio|spdair|airspeed
+ETHOS SD-CARD/audio|spdgnd|ground speed
+ETHOS SD-CARD/audio|spdmod|high speed mode!, active
+ETHOS SD-CARD/audio|sprrst|Speed reset
+ETHOS SD-CARD/audio|splrdn|spoiler!, down!
+ETHOS SD-CARD/audio|splrup|spoiler!, up!
+ETHOS SD-CARD/audio|sprtmd|sport mode
+ETHOS SD-CARD/audio|stabof|Stabilize off
+ETHOS SD-CARD/audio|stabon|Stabilize active
+ETHOS SD-CARD/audio|stksea|sticksense on
+ETHOS SD-CARD/audio|stkseo|sticksense off
+ETHOS SD-CARD/audio|strbof|Strobe lights off
+ETHOS SD-CARD/audio|strbon|Strobe lights on
+ETHOS SD-CARD/audio|telrst|Telemetry reset
+ETHOS SD-CARD/audio|thmmod|thermal mode!, on
+ETHOS SD-CARD/audio|thract|throttle active
+ETHOS SD-CARD/audio|thrcut|throttle cut
+ETHOS SD-CARD/audio|thrdis|throttle disabled
+ETHOS SD-CARD/audio|thren|throttle enabled
+ETHOS SD-CARD/audio|timrst|timer reset
+ETHOS SD-CARD/audio|timstp|timer, stop
+ETHOS SD-CARD/audio|timstr|timer, start
+ETHOS SD-CARD/audio|tm1end|timer 1 ended
+ETHOS SD-CARD/audio|tm1rst|timer 1 rieset
+ETHOS SD-CARD/audio|tm1sta|timer 1 start
+ETHOS SD-CARD/audio|tm1stp|timer 1 stop
+ETHOS SD-CARD/audio|tm2end|timer 2 ended
+ETHOS SD-CARD/audio|tm2rst|timer 2 rieset
+ETHOS SD-CARD/audio|tm2sta|timer 2 start
+ETHOS SD-CARD/audio|tm2stp|timer 2 stop
+ETHOS SD-CARD/audio|tohigh|too high!
+ETHOS SD-CARD/audio|tolow|too low!
+ETHOS SD-CARD/audio|towlck|tow cable locked
+ETHOS SD-CARD/audio|towrel|tow cable released
+ETHOS SD-CARD/audio|trnoff|trainer!, off!
+ETHOS SD-CARD/audio|trnon|trainer!, on!
+ETHOS SD-CARD/audio|turtof|turtle mode off
+ETHOS SD-CARD/audio|turton|turtle mode on
+ETHOS SD-CARD/audio|vfr|vfr
+ETHOS SD-CARD/audio|vfrrst|vfr reset
+ETHOS SD-CARD/audio|vltcrt|battery voltage critical
+ETHOS SD-CARD/audio|volt|volt
+ETHOS SD-CARD/audio|voltmv|millivolt
+ETHOS SD-CARD/audio|vrioff|vario!, off
+ETHOS SD-CARD/audio|vrion|varion!, on
+ETHOS SD-CARD/audio|vspd|vertical speed
+ETHOS SD-CARD/audio|vsprst|vertical speed reset
