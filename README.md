@@ -10,7 +10,7 @@ Small writeup how to Create OpenTX & ETHOS soundpacks with TTS Automate and Batc
 ----------------------------
 OpenTX is provided with the possibility to use sound packs.
 
-![alt text](http://www.open-tx.org/assets/images/opentx-sound-logo.png)
+![alt text](https://www.open-tx.org/assets/images/opentx-sound-logo.png)
 
 These are audio (wav) files, and you can play these from OpenTX.
 Like many have heard on the field :-)
