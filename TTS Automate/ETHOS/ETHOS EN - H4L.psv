@@ -23,6 +23,7 @@ ETHOS SD-CARD/audio|armed|armed
 ETHOS SD-CARD/audio|attmod|attitude mode
 ETHOS SD-CARD/audio|autdtf|Automatic Detach, off!
 ETHOS SD-CARD/audio|autdto|Automatic Detach, on!
+ETHOS SD-CARD/audio|autoland|Auto landing activated
 ETHOS SD-CARD/audio|autolv|Autolevel active
 ETHOS SD-CARD/audio|bank0|bank 0
 ETHOS SD-CARD/audio|bank1|bank 1
@@ -53,6 +54,7 @@ ETHOS SD-CARD/audio|dist|distance
 ETHOS SD-CARD/audio|dstika|dualstick active
 ETHOS SD-CARD/audio|dstiko|dualstick off
 ETHOS SD-CARD/audio|distrst|distance reset
+ETHOS SD-CARD/audio|dronesel|Drone selected
 ETHOS SD-CARD/audio|dualrf|dualrates off
 ETHOS SD-CARD/audio|dualro|dualrates on
 ETHOS SD-CARD/audio|engine|engine
@@ -109,6 +111,7 @@ ETHOS SD-CARD/audio|gdist|Ground distance
 ETHOS SD-CARD/audio|geardn|gear!, down!
 ETHOS SD-CARD/audio|gearup|gear!, up!
 ETHOS SD-CARD/audio|glidet|Glider Detached
+ETHOS SD-CARD/audio|glidersel|Glider Selected
 ETHOS SD-CARD/audio|gps|gps
 ETHOS SD-CARD/audio|gpsalt|gps altitude
 ETHOS SD-CARD/audio|gpsaltrst|gps altitude reset

@@ -119,7 +119,7 @@ ETHOS SD-CARD/audio/nl/system|celciuss|graden celcius
 ETHOS SD-CARD/audio/nl/system|cm|centimeter
 ETHOS SD-CARD/audio/nl/system|cmps|centimeter per seconde
 ETHOS SD-CARD/audio/nl/system|cms|centimeters
-ETHOS SD-CARD/audio/nl/system|cmsps|centimeters per seconden
+ETHOS SD-CARD/audio/nl/system|cmsps|centimeters per seconde
 ETHOS SD-CARD/audio/nl/system|db|db
 ETHOS SD-CARD/audio/nl/system|dbs|db
 ETHOS SD-CARD/audio/nl/system|down|omlaag
@@ -148,7 +148,7 @@ ETHOS SD-CARD/audio/nl/system|mamps|milliamperes
 ETHOS SD-CARD/audio/nl/system|meter|meter
 ETHOS SD-CARD/audio/nl/system|meterps|meter per seconde
 ETHOS SD-CARD/audio/nl/system|meters|meters
-ETHOS SD-CARD/audio/nl/system|metersps|meters per seconden
+ETHOS SD-CARD/audio/nl/system|metersps|meters, per seconde
 ETHOS SD-CARD/audio/nl/system|middle|midden
 ETHOS SD-CARD/audio/nl/system|mile|mijl
 ETHOS SD-CARD/audio/nl/system|miles|mijlen
@@ -181,7 +181,7 @@ ETHOS SD-CARD/audio/nl/system|point6|punt 6
 ETHOS SD-CARD/audio/nl/system|point7|punt 7
 ETHOS SD-CARD/audio/nl/system|point8|punt 8
 ETHOS SD-CARD/audio/nl/system|point9|punt 9
-ETHOS SD-CARD/audio/nl/system|pot-warning|potmeter waarschuwung
+ETHOS SD-CARD/audio/nl/system|pot-warning|potmeter waarschuwing
 ETHOS SD-CARD/audio/nl/system|range-check|reikwijdte test
 ETHOS SD-CARD/audio/nl/system|register|registreren
 ETHOS SD-CARD/audio/nl/system|rssi-critical-warning|R S S I kritische waarschuwing
@@ -208,13 +208,13 @@ ETHOS SD-CARD/audio/nl/system|rx-on-warning|ontvanger staat nog aan
 ETHOS SD-CARD/audio/nl/system|second|seconde
 ETHOS SD-CARD/audio/nl/system|seconds|seconden
 ETHOS SD-CARD/audio/nl/system|sensor-lost|sensor verloren
-ETHOS SD-CARD/audio/nl/system|slave-disconnect|slaaf verbroken
+ETHOS SD-CARD/audio/nl/system|slave-disconnect|slave apparaat verbroken
 ETHOS SD-CARD/audio/nl/system|switch-warning|schakelaar waarschuwing
 ETHOS SD-CARD/audio/nl/system|swr-warning|SWR waarschuwing
 ETHOS SD-CARD/audio/nl/system|system-file-version-error|systeembestandsversie komt niet overeen
 ETHOS SD-CARD/audio/nl/system|thousand|duizend
 ETHOS SD-CARD/audio/nl/system|thousands|duizenden
-ETHOS SD-CARD/audio/nl/system|throttle-warning|gas not idle
+ETHOS SD-CARD/audio/nl/system|throttle-warning|gas niet idle
 ETHOS SD-CARD/audio/nl/system|trainer-lost|trainer signaal verloren
 ETHOS SD-CARD/audio/nl/system|trainer-recovered|trainer signaal hersteld
 ETHOS SD-CARD/audio/nl/system|trim-center|trim midden
