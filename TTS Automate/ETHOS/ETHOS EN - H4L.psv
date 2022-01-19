@@ -229,3 +229,13 @@ ETHOS SD-CARD/audio|vrioff|vario!, off
 ETHOS SD-CARD/audio|vrion|varion!, on
 ETHOS SD-CARD/audio|vspd|vertical speed
 ETHOS SD-CARD/audio|vsprst|vertical speed reset
+ETHOS SD-CARD/audio|aileron-ctrl-on|Aileron control, on
+ETHOS SD-CARD/audio|aileron-ctrl-off|Aileron control, off
+ETHOS SD-CARD/audio|elevator-ctrl-on|Elevator control, on
+ETHOS SD-CARD/audio|elevator-ctrl-off|Elevator control, off
+ETHOS SD-CARD/audio|pitch-ctrl-on|Pitch control, on
+ETHOS SD-CARD/audio|pitch-ctrl-off|Pitch control, off
+ETHOS SD-CARD/audio|rudder-ctrl-on|Rudder control, on
+ETHOS SD-CARD/audio|rudder-ctrl-off|Rudder control, off
+ETHOS SD-CARD/audio|throttle-ctrl-on|Throttle control, on
+ETHOS SD-CARD/audio|throttle-ctrl-off|Throttle control, off

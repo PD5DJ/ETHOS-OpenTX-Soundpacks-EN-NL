@@ -122,6 +122,8 @@ ETHOS SD-CARD/audio/nl/system|cms|centimeters
 ETHOS SD-CARD/audio/nl/system|cmsps|centimeters per seconde
 ETHOS SD-CARD/audio/nl/system|db|db
 ETHOS SD-CARD/audio/nl/system|dbs|db
+ETHOS SD-CARD/audio/nl/system|degree|graden
+ETHOS SD-CARD/audio/nl/system|degrees|graden
 ETHOS SD-CARD/audio/nl/system|down|omlaag
 ETHOS SD-CARD/audio/nl/system|fahrenheit|graden fahrenheit
 ETHOS SD-CARD/audio/nl/system|fahrenheits|graden fahrenheit
@@ -129,11 +131,11 @@ ETHOS SD-CARD/audio/nl/system|feet|voet
 ETHOS SD-CARD/audio/nl/system|feetps|voet per seconde
 ETHOS SD-CARD/audio/nl/system|foot|voet
 ETHOS SD-CARD/audio/nl/system|footps|voet per seconde
+ETHOS SD-CARD/audio/nl/system|function-switches-warning|functie schakelaar waarschuwing
+ETHOS SD-CARD/audio/nl/system|g|g
 ETHOS SD-CARD/audio/nl/system|hello|welkom bij ethos
 ETHOS SD-CARD/audio/nl/system|hour|uur
 ETHOS SD-CARD/audio/nl/system|hours|uren
-ETHOS SD-CARD/audio/nl/system|hundred|honderd
-ETHOS SD-CARD/audio/nl/system|hundreds|honderden
 ETHOS SD-CARD/audio/nl/system|inactivity|inactiviteit voor lange tijd
 ETHOS SD-CARD/audio/nl/system|km|kilometer
 ETHOS SD-CARD/audio/nl/system|kms|kilometers
@@ -157,6 +159,12 @@ ETHOS SD-CARD/audio/nl/system|milliseconds|milliseconden
 ETHOS SD-CARD/audio/nl/system|minus|minus
 ETHOS SD-CARD/audio/nl/system|minute|minuut
 ETHOS SD-CARD/audio/nl/system|minutes|minuten
+ETHOS SD-CARD/audio/nl/system|ml|milliliter
+ETHOS SD-CARD/audio/nl/system|mlpm|milliliter per minuut
+ETHOS SD-CARD/audio/nl/system|mlpms|milliliters per minuut
+ETHOS SD-CARD/audio/nl/system|mlpp|milliliter per puls
+ETHOS SD-CARD/audio/nl/system|mlpps|milliliters per puls
+ETHOS SD-CARD/audio/nl/system|mls|milliliters
 ETHOS SD-CARD/audio/nl/system|modelfile-version-error|model bestandsversie komt niet overeen
 ETHOS SD-CARD/audio/nl/system|mph|mijl per uur
 ETHOS SD-CARD/audio/nl/system|msph|mijlen per uur
@@ -166,12 +174,9 @@ ETHOS SD-CARD/audio/nl/system|mwatt|milliwatt
 ETHOS SD-CARD/audio/nl/system|mwatts|milliwatts
 ETHOS SD-CARD/audio/nl/system|no-calibration|de stuurknuppels zijn niet gekalibreerd
 ETHOS SD-CARD/audio/nl/system|no-failsave|failsave niet ingesteld
-ETHOS SD-CARD/audio/nl/system|no-sd|geen sd-kaart geplaatst
 ETHOS SD-CARD/audio/nl/system|no-sound|radio in stille modus
 ETHOS SD-CARD/audio/nl/system|percent|procent
 ETHOS SD-CARD/audio/nl/system|percents|procent
-ETHOS SD-CARD/audio/nl/system|point|punt
-ETHOS SD-CARD/audio/nl/system|point0|punt 0
 ETHOS SD-CARD/audio/nl/system|point1|punt 1
 ETHOS SD-CARD/audio/nl/system|point2|punt 2
 ETHOS SD-CARD/audio/nl/system|point3|punt 3
@@ -208,10 +213,9 @@ ETHOS SD-CARD/audio/nl/system|rx-on-warning|ontvanger staat nog aan
 ETHOS SD-CARD/audio/nl/system|second|seconde
 ETHOS SD-CARD/audio/nl/system|seconds|seconden
 ETHOS SD-CARD/audio/nl/system|sensor-lost|sensor verloren
-ETHOS SD-CARD/audio/nl/system|slave-disconnect|slave apparaat verbroken
 ETHOS SD-CARD/audio/nl/system|switch-warning|schakelaar waarschuwing
-ETHOS SD-CARD/audio/nl/system|swr-warning|SWR waarschuwing
-ETHOS SD-CARD/audio/nl/system|system-file-version-error|systeembestandsversie komt niet overeen
+ETHOS SD-CARD/audio/nl/system|swr-warning|S W R waarschuwing
+ETHOS SD-CARD/audio/nl/system|system-file-version-error|systeem bestandsversie komt niet overeen
 ETHOS SD-CARD/audio/nl/system|thousand|duizend
 ETHOS SD-CARD/audio/nl/system|thousands|duizenden
 ETHOS SD-CARD/audio/nl/system|throttle-warning|gas niet idle
@@ -221,6 +225,7 @@ ETHOS SD-CARD/audio/nl/system|trim-center|trim midden
 ETHOS SD-CARD/audio/nl/system|trim-max|maximaal trim bereikt
 ETHOS SD-CARD/audio/nl/system|trim-min|minimum trim bereikt
 ETHOS SD-CARD/audio/nl/system|up|omhoog
+ETHOS SD-CARD/audio/nl/system|vfr-low-warning|v f r laag waarschuwing
 ETHOS SD-CARD/audio/nl/system|volt|volt
 ETHOS SD-CARD/audio/nl/system|volts|volts
 ETHOS SD-CARD/audio/nl/system|watt|watt

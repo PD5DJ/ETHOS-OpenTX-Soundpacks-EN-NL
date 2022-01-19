@@ -122,6 +122,8 @@ ETHOS SD-CARD/audio/en/system|cms|centimeters
 ETHOS SD-CARD/audio/en/system|cmsps|centimeters per second
 ETHOS SD-CARD/audio/en/system|db|db
 ETHOS SD-CARD/audio/en/system|dbs|db
+ETHOS SD-CARD/audio/en/system|degree|degree
+ETHOS SD-CARD/audio/en/system|degrees|degrees
 ETHOS SD-CARD/audio/en/system|down|down
 ETHOS SD-CARD/audio/en/system|fahrenheit|degree fahrenheit
 ETHOS SD-CARD/audio/en/system|fahrenheits|degrees fahrenheit
@@ -129,11 +131,11 @@ ETHOS SD-CARD/audio/en/system|feet|feet
 ETHOS SD-CARD/audio/en/system|feetps|feet per second
 ETHOS SD-CARD/audio/en/system|foot|foot
 ETHOS SD-CARD/audio/en/system|footps|foot per second
+ETHOS SD-CARD/audio/en/system|function-switches-warning|function switches warning
+ETHOS SD-CARD/audio/en/system|g|g
 ETHOS SD-CARD/audio/en/system|hello|welcome to ethos
 ETHOS SD-CARD/audio/en/system|hour|hour
 ETHOS SD-CARD/audio/en/system|hours|hours
-ETHOS SD-CARD/audio/en/system|hundred|hundred
-ETHOS SD-CARD/audio/en/system|hundreds|hundreds
 ETHOS SD-CARD/audio/en/system|inactivity|inactivity for a long time
 ETHOS SD-CARD/audio/en/system|km|kilometre
 ETHOS SD-CARD/audio/en/system|kms|kilometres
@@ -157,6 +159,12 @@ ETHOS SD-CARD/audio/en/system|milliseconds|milliseconds
 ETHOS SD-CARD/audio/en/system|minus|minus
 ETHOS SD-CARD/audio/en/system|minute|minute
 ETHOS SD-CARD/audio/en/system|minutes|minutes
+ETHOS SD-CARD/audio/en/system|ml|milliliter
+ETHOS SD-CARD/audio/en/system|mlpm|milliliter per minute
+ETHOS SD-CARD/audio/en/system|mlpms|milliliters per minute
+ETHOS SD-CARD/audio/en/system|mlpp|millititer per pulse
+ETHOS SD-CARD/audio/en/system|mlpps|milliliters per pulse
+ETHOS SD-CARD/audio/en/system|mls|milliliters
 ETHOS SD-CARD/audio/en/system|modelfile-version-error|model file version does not match
 ETHOS SD-CARD/audio/en/system|mph|mile per hour
 ETHOS SD-CARD/audio/en/system|msph|miles per hour
@@ -166,12 +174,9 @@ ETHOS SD-CARD/audio/en/system|mwatt|milliwatt
 ETHOS SD-CARD/audio/en/system|mwatts|milliwatts
 ETHOS SD-CARD/audio/en/system|no-calibration|the sticks are not calibrated
 ETHOS SD-CARD/audio/en/system|no-failsave|failsave not set
-ETHOS SD-CARD/audio/en/system|no-sd|no sd card inserted
 ETHOS SD-CARD/audio/en/system|no-sound|radio is in silent mode
 ETHOS SD-CARD/audio/en/system|percent|percent
 ETHOS SD-CARD/audio/en/system|percents|percent
-ETHOS SD-CARD/audio/en/system|point|point
-ETHOS SD-CARD/audio/en/system|point0|point 0
 ETHOS SD-CARD/audio/en/system|point1|point 1
 ETHOS SD-CARD/audio/en/system|point2|point 2
 ETHOS SD-CARD/audio/en/system|point3|point 3
@@ -189,10 +194,10 @@ ETHOS SD-CARD/audio/en/system|rssi-ext-critical-warning|External module RSSI cri
 ETHOS SD-CARD/audio/en/system|rssi-ext-lost|External module telemetry lost
 ETHOS SD-CARD/audio/en/system|rssi-ext-low-warning|External module RSSI low warning
 ETHOS SD-CARD/audio/en/system|rssi-ext-recovered|External module telemetry recovered
-ETHOS SD-CARD/audio/en/system|rssi-int2g4-critical-warning|Internal module 2 point 4 giga hertz, RSSI critical warning
-ETHOS SD-CARD/audio/en/system|rssi-int2g4-lost|Internal module 2 point 4 giga hertz, telemetry lost
-ETHOS SD-CARD/audio/en/system|rssi-int2g4-low-warning|Internal module 2 point 4 giga hertz, RSSI low warning
-ETHOS SD-CARD/audio/en/system|rssi-int2g4-recovered|Internal module 2 point 4 giga hertz, telemetry recovered
+ETHOS SD-CARD/audio/en/system|rssi-int2g4-critical-warning|Internal module 2 point 4 ghz, RSSI critical warning
+ETHOS SD-CARD/audio/en/system|rssi-int2g4-lost|Internal module 2 point 4 ghz, telemetry lost
+ETHOS SD-CARD/audio/en/system|rssi-int2g4-low-warning|Internal module 2 point 4 ghz, RSSI low warning
+ETHOS SD-CARD/audio/en/system|rssi-int2g4-recovered|Internal module 2 point 4 ghz, telemetry recovered
 ETHOS SD-CARD/audio/en/system|rssi-int900m-critical-warning|Internal module 900 mhz, RSSI critical warning
 ETHOS SD-CARD/audio/en/system|rssi-int900m-lost|Internal module 900 mhz, telemetry lost
 ETHOS SD-CARD/audio/en/system|rssi-int900m-low-warning|Internal module 900 mhz, RSSI low warning
@@ -208,7 +213,6 @@ ETHOS SD-CARD/audio/en/system|rx-on-warning|receiver is still on
 ETHOS SD-CARD/audio/en/system|second|second
 ETHOS SD-CARD/audio/en/system|seconds|seconds
 ETHOS SD-CARD/audio/en/system|sensor-lost|sensor lost
-ETHOS SD-CARD/audio/en/system|slave-disconnect|slave disconnect
 ETHOS SD-CARD/audio/en/system|switch-warning|switch warning
 ETHOS SD-CARD/audio/en/system|swr-warning|SWR warning
 ETHOS SD-CARD/audio/en/system|system-file-version-error|system file version does not match
@@ -221,6 +225,7 @@ ETHOS SD-CARD/audio/en/system|trim-center|trim center
 ETHOS SD-CARD/audio/en/system|trim-max|maximum trim reached
 ETHOS SD-CARD/audio/en/system|trim-min|minimum trim reached
 ETHOS SD-CARD/audio/en/system|up|up
+ETHOS SD-CARD/audio/en/system|vfr-low-warning|v f r low warning
 ETHOS SD-CARD/audio/en/system|volt|volt
 ETHOS SD-CARD/audio/en/system|volts|volts
 ETHOS SD-CARD/audio/en/system|watt|watt
@@ -453,3 +458,13 @@ ETHOS SD-CARD/audio|vrioff|vario!, off
 ETHOS SD-CARD/audio|vrion|varion!, on
 ETHOS SD-CARD/audio|vspd|vertical speed
 ETHOS SD-CARD/audio|vsprst|vertical speed reset
+ETHOS SD-CARD/audio|aileron-ctrl-on|Aileron control, on
+ETHOS SD-CARD/audio|aileron-ctrl-off|Aileron control, off
+ETHOS SD-CARD/audio|elevator-ctrl-on|Elevator control, on
+ETHOS SD-CARD/audio|elevator-ctrl-off|Elevator control, off
+ETHOS SD-CARD/audio|pitch-ctrl-on|Pitch control, on
+ETHOS SD-CARD/audio|pitch-ctrl-off|Pitch control, off
+ETHOS SD-CARD/audio|rudder-ctrl-on|Rudder control, on
+ETHOS SD-CARD/audio|rudder-ctrl-off|Rudder control, off
+ETHOS SD-CARD/audio|throttle-ctrl-on|Throttle control, on
+ETHOS SD-CARD/audio|throttle-ctrl-off|Throttle control, off
